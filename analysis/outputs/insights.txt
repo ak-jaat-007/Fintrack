@@ -1,0 +1,11 @@
+transaction_count: 1800
+months_covered: 12
+income_total: 3787007.0
+expense_total: 4718817.0
+net_cashflow: -931810.0
+highest_spend_category: Shopping
+highest_spend_category_amount: 1544243.0
+highest_spend_category_share_pct: 32.725214815492954
+weekend_avg_vs_weekday_ratio: 1.1457388707444958
+iqr_upper_bound: 7981.25
+outlier_count: 66

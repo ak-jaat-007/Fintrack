@@ -1,0 +1,1801 @@
+date,description,amount,category,type,merchant
+2025-10-01,Cab Ride,134,Transport,expense,cab_ride
+2025-10-01,Cab Ride,1478,Transport,expense,cab_ride
+2025-10-01,Cab Ride,528,Transport,expense,cab_ride
+2025-10-01,Food Delivery,1028,Food,expense,food_delivery
+2025-10-01,Home Store,8644,Shopping,expense,home_store
+2025-10-01,Online Course,5079,Education,expense,online_course
+2025-10-01,Salary,86005,Income,income,salary_credit
+2025-10-02,Cab Ride,1435,Transport,expense,cab_ride
+2025-10-02,Pharmacy,2630,Healthcare,expense,pharmacy
+2025-10-02,Bonus,21638,Income,income,bonus
+2025-10-02,Interest Credit,1485,Income,income,interest_credit
+2025-10-03,Cab Ride,2487,Transport,expense,cab_ride
+2025-10-03,Diagnostics,615,Healthcare,expense,diagnostics
+2025-10-03,Home Store,840,Shopping,expense,home_store
+2025-10-03,Home Store,2798,Shopping,expense,home_store
+2025-10-03,Mobile Recharge,1750,Utilities,expense,mobile_recharge
+2025-10-03,Monthly Rent,26743,Rent,expense,monthly_rent
+2025-10-04,Cafe,6262,Food,expense,cafe
+2025-10-04,Supermarket,5066,Food,expense,supermarket
+2025-10-04,Freelance Client,11740,Income,income,freelance_client
+2025-10-05,Cab Ride,816,Transport,expense,cab_ride
+2025-10-05,Cab Ride,1521,Transport,expense,cab_ride
+2025-10-05,Cafe,3951,Food,expense,cafe
+2025-10-06,Cafe,582,Food,expense,cafe
+2025-10-06,Home Store,7823,Shopping,expense,home_store
+2025-10-06,Home Store,2752,Shopping,expense,home_store
+2025-10-06,Home Store,2128,Shopping,expense,home_store
+2025-10-06,Pharmacy,2042,Healthcare,expense,pharmacy
+2025-10-06,Bonus,7325,Income,income,bonus
+2025-10-07,Cafe,1754,Food,expense,cafe
+2025-10-07,Electricity Bill,1175,Utilities,expense,electricity_bill
+2025-10-07,Gaming Store,1255,Entertainment,expense,gaming_store
+2025-10-07,Home Store,3230,Shopping,expense,home_store
+2025-10-08,Mobile Recharge,694,Utilities,expense,mobile_recharge
+2025-10-08,Online Course,3615,Education,expense,online_course
+2025-10-08,Freelance Client,12910,Income,income,freelance_client
+2025-10-09,Books,4804,Education,expense,books
+2025-10-09,Certification,3973,Education,expense,certification
+2025-10-09,Electricity Bill,2007,Utilities,expense,electricity_bill
+2025-10-09,Mobile Recharge,1720,Utilities,expense,mobile_recharge
+2025-10-09,Supermarket,996,Food,expense,supermarket
+2025-10-10,Cab Ride,1907,Transport,expense,cab_ride
+2025-10-10,Cab Ride,1740,Transport,expense,cab_ride
+2025-10-10,Cab Ride,942,Transport,expense,cab_ride
+2025-10-10,Mobile Recharge,3456,Utilities,expense,mobile_recharge
+2025-10-10,Supermarket,4618,Food,expense,supermarket
+2025-10-11,Cafe,4766,Food,expense,cafe
+2025-10-11,Supermarket,1347,Food,expense,supermarket
+2025-10-11,Supermarket,4321,Food,expense,supermarket
+2025-10-11,Bonus,20282,Income,income,bonus
+2025-10-12,Cab Ride,1464,Transport,expense,cab_ride
+2025-10-12,Gaming Store,422,Entertainment,expense,gaming_store
+2025-10-12,Grocery Store,2960,Food,expense,grocery_store
+2025-10-13,Cab Ride,1261,Transport,expense,cab_ride
+2025-10-13,Food Delivery,2000,Food,expense,food_delivery
+2025-10-13,Home Store,4197,Shopping,expense,home_store
+2025-10-13,Pharmacy,3415,Healthcare,expense,pharmacy
+2025-10-14,Internet Bill,1921,Utilities,expense,internet_bill
+2025-10-15,Cab Ride,1533,Transport,expense,cab_ride
+2025-10-15,Cafe,3415,Food,expense,cafe
+2025-10-15,Gaming Store,1183,Entertainment,expense,gaming_store
+2025-10-15,Grocery Store,2734,Food,expense,grocery_store
+2025-10-15,Home Store,3174,Shopping,expense,home_store
+2025-10-15,Home Store,1448,Shopping,expense,home_store
+2025-10-16,Interest Credit,2995,Income,income,interest_credit
+2025-10-17,Cab Ride,2304,Transport,expense,cab_ride
+2025-10-17,Diagnostics,2386,Healthcare,expense,diagnostics
+2025-10-17,Gaming Store,627,Entertainment,expense,gaming_store
+2025-10-17,Home Store,3631,Shopping,expense,home_store
+2025-10-17,Mobile Recharge,1664,Utilities,expense,mobile_recharge
+2025-10-17,Pharmacy,1129,Healthcare,expense,pharmacy
+2025-10-18,Clinic Visit,1242,Healthcare,expense,clinic_visit
+2025-10-18,Food Delivery,3612,Food,expense,food_delivery
+2025-10-18,Grocery Store,5174,Food,expense,grocery_store
+2025-10-18,Restaurant,2317,Food,expense,restaurant
+2025-10-18,Supermarket,4379,Food,expense,supermarket
+2025-10-19,Cab Ride,2076,Transport,expense,cab_ride
+2025-10-19,Food Delivery,3163,Food,expense,food_delivery
+2025-10-19,Gaming Store,1048,Entertainment,expense,gaming_store
+2025-10-19,Home Store,6561,Shopping,expense,home_store
+2025-10-19,Home Store,1279,Shopping,expense,home_store
+2025-10-19,Freelance Client,18847,Income,income,freelance_client
+2025-10-20,Books,4513,Education,expense,books
+2025-10-20,Cab Ride,1213,Transport,expense,cab_ride
+2025-10-20,Cafe,924,Food,expense,cafe
+2025-10-20,Clinic Visit,568,Healthcare,expense,clinic_visit
+2025-10-21,Cab Ride,171,Transport,expense,cab_ride
+2025-10-21,Cab Ride,235,Transport,expense,cab_ride
+2025-10-21,Gaming Store,2057,Entertainment,expense,gaming_store
+2025-10-21,Home Store,3493,Shopping,expense,home_store
+2025-10-21,Internet Bill,2129,Utilities,expense,internet_bill
+2025-10-22,Books,3572,Education,expense,books
+2025-10-22,Electricity Bill,915,Utilities,expense,electricity_bill
+2025-10-22,Gaming Store,237,Entertainment,expense,gaming_store
+2025-10-22,Gaming Store,1701,Entertainment,expense,gaming_store
+2025-10-22,Internet Bill,3039,Utilities,expense,internet_bill
+2025-10-22,Restaurant,1087,Food,expense,restaurant
+2025-10-22,Freelance Client,9165,Income,income,freelance_client
+2025-10-22,Interest Credit,3188,Income,income,interest_credit
+2025-10-23,Electricity Bill,1283,Utilities,expense,electricity_bill
+2025-10-23,Home Store,3662,Shopping,expense,home_store
+2025-10-23,Restaurant,4410,Food,expense,restaurant
+2025-10-23,Supermarket,2590,Food,expense,supermarket
+2025-10-23,Supermarket,3290,Food,expense,supermarket
+2025-10-23,Bonus,23334,Income,income,bonus
+2025-10-24,Cab Ride,2228,Transport,expense,cab_ride
+2025-10-24,Cab Ride,687,Transport,expense,cab_ride
+2025-10-24,Diagnostics,2985,Healthcare,expense,diagnostics
+2025-10-24,Interest Credit,1253,Income,income,interest_credit
+2025-10-25,Cab Ride,1190,Transport,expense,cab_ride
+2025-10-25,Cab Ride,419,Transport,expense,cab_ride
+2025-10-25,Cab Ride,2255,Transport,expense,cab_ride
+2025-10-25,Cafe,5701,Food,expense,cafe
+2025-10-26,Cab Ride,1982,Transport,expense,cab_ride
+2025-10-26,Electricity Bill,2293,Utilities,expense,electricity_bill
+2025-10-26,Freelance Client,22740,Income,income,freelance_client
+2025-10-26,Interest Credit,2971,Income,income,interest_credit
+2025-10-27,Cafe,2642,Food,expense,cafe
+2025-10-27,Electricity Bill,2145,Utilities,expense,electricity_bill
+2025-10-27,Food Delivery,1152,Food,expense,food_delivery
+2025-10-27,Grocery Store,1435,Food,expense,grocery_store
+2025-10-27,Grocery Store,1510,Food,expense,grocery_store
+2025-10-27,Home Store,5227,Shopping,expense,home_store
+2025-10-27,Home Store,6978,Shopping,expense,home_store
+2025-10-27,Supermarket,3776,Food,expense,supermarket
+2025-10-28,Cab Ride,2192,Transport,expense,cab_ride
+2025-10-28,Cab Ride,242,Transport,expense,cab_ride
+2025-10-28,Diagnostics,2128,Healthcare,expense,diagnostics
+2025-10-28,Gaming Store,1239,Entertainment,expense,gaming_store
+2025-10-28,Home Store,3106,Shopping,expense,home_store
+2025-10-28,Home Store,5907,Shopping,expense,home_store
+2025-10-29,Cab Ride,482,Transport,expense,cab_ride
+2025-10-29,Cab Ride,147,Transport,expense,cab_ride
+2025-10-29,Gaming Store,1551,Entertainment,expense,gaming_store
+2025-10-29,Internet Bill,3189,Utilities,expense,internet_bill
+2025-10-30,Interest Credit,2060,Income,income,interest_credit
+2025-10-31,Cab Ride,1151,Transport,expense,cab_ride
+2025-10-31,Electricity Bill,3405,Utilities,expense,electricity_bill
+2025-10-31,Home Store,2458,Shopping,expense,home_store
+2025-10-31,Pharmacy,2257,Healthcare,expense,pharmacy
+2025-11-01,Cab Ride,1080,Transport,expense,cab_ride
+2025-11-01,Grocery Store,5744,Food,expense,grocery_store
+2025-11-01,Home Store,4140,Shopping,expense,home_store
+2025-11-01,Mobile Recharge,2194,Utilities,expense,mobile_recharge
+2025-11-01,Salary,83361,Income,income,salary_credit
+2025-11-02,Cafe,4255,Food,expense,cafe
+2025-11-02,Cafe,3211,Food,expense,cafe
+2025-11-02,Diagnostics,3770,Healthcare,expense,diagnostics
+2025-11-02,Food Delivery,464,Food,expense,food_delivery
+2025-11-02,Home Store,4024,Shopping,expense,home_store
+2025-11-02,Home Store,4877,Shopping,expense,home_store
+2025-11-02,Interest Credit,749,Income,income,interest_credit
+2025-11-03,Mobile Recharge,1276,Utilities,expense,mobile_recharge
+2025-11-03,Monthly Rent,25744,Rent,expense,monthly_rent
+2025-11-03,Pharmacy,3966,Healthcare,expense,pharmacy
+2025-11-03,Bonus,20136,Income,income,bonus
+2025-11-04,Cafe,2684,Food,expense,cafe
+2025-11-04,Clinic Visit,4080,Healthcare,expense,clinic_visit
+2025-11-04,Diagnostics,3043,Healthcare,expense,diagnostics
+2025-11-04,Grocery Store,4891,Food,expense,grocery_store
+2025-11-04,Home Store,5798,Shopping,expense,home_store
+2025-11-04,Mobile Recharge,1109,Utilities,expense,mobile_recharge
+2025-11-04,Pharmacy,1784,Healthcare,expense,pharmacy
+2025-11-05,Diagnostics,4428,Healthcare,expense,diagnostics
+2025-11-05,Home Store,8242,Shopping,expense,home_store
+2025-11-05,Home Store,5476,Shopping,expense,home_store
+2025-11-05,Internet Bill,1892,Utilities,expense,internet_bill
+2025-11-05,Mobile Recharge,1262,Utilities,expense,mobile_recharge
+2025-11-05,Mobile Recharge,1354,Utilities,expense,mobile_recharge
+2025-11-05,Freelance Client,26704,Income,income,freelance_client
+2025-11-06,Gaming Store,1493,Entertainment,expense,gaming_store
+2025-11-07,Cafe,3779,Food,expense,cafe
+2025-11-07,Home Store,5536,Shopping,expense,home_store
+2025-11-07,Home Store,7266,Shopping,expense,home_store
+2025-11-07,Internet Bill,1951,Utilities,expense,internet_bill
+2025-11-07,Freelance Client,21614,Income,income,freelance_client
+2025-11-08,Cab Ride,508,Transport,expense,cab_ride
+2025-11-08,Food Delivery,2222,Food,expense,food_delivery
+2025-11-08,Home Store,2126,Shopping,expense,home_store
+2025-11-08,Pharmacy,4062,Healthcare,expense,pharmacy
+2025-11-09,Books,4515,Education,expense,books
+2025-11-09,Certification,845,Education,expense,certification
+2025-11-09,Supermarket,5370,Food,expense,supermarket
+2025-11-10,Cab Ride,1210,Transport,expense,cab_ride
+2025-11-10,Diagnostics,4432,Healthcare,expense,diagnostics
+2025-11-10,Grocery Store,889,Food,expense,grocery_store
+2025-11-10,Restaurant,1621,Food,expense,restaurant
+2025-11-10,Supermarket,3885,Food,expense,supermarket
+2025-11-10,Freelance Client,10822,Income,income,freelance_client
+2025-11-11,Cab Ride,230,Transport,expense,cab_ride
+2025-11-11,Grocery Store,1105,Food,expense,grocery_store
+2025-11-12,Home Store,2806,Shopping,expense,home_store
+2025-11-12,Home Store,6151,Shopping,expense,home_store
+2025-11-12,Home Store,6831,Shopping,expense,home_store
+2025-11-13,Freelance Client,14182,Income,income,freelance_client
+2025-11-14,Cab Ride,534,Transport,expense,cab_ride
+2025-11-14,Cab Ride,1472,Transport,expense,cab_ride
+2025-11-14,Cab Ride,1190,Transport,expense,cab_ride
+2025-11-14,Clinic Visit,2514,Healthcare,expense,clinic_visit
+2025-11-14,Online Course,4537,Education,expense,online_course
+2025-11-14,Online Course,467,Education,expense,online_course
+2025-11-15,Cafe,3503,Food,expense,cafe
+2025-11-15,Clinic Visit,1780,Healthcare,expense,clinic_visit
+2025-11-15,Grocery Store,5459,Food,expense,grocery_store
+2025-11-16,Cab Ride,1575,Transport,expense,cab_ride
+2025-11-16,Home Store,5680,Shopping,expense,home_store
+2025-11-16,Restaurant,6268,Food,expense,restaurant
+2025-11-16,Supermarket,1490,Food,expense,supermarket
+2025-11-16,Freelance Client,16484,Income,income,freelance_client
+2025-11-17,Food Delivery,2003,Food,expense,food_delivery
+2025-11-17,Home Store,1310,Shopping,expense,home_store
+2025-11-18,Cab Ride,2156,Transport,expense,cab_ride
+2025-11-18,Home Store,7200,Shopping,expense,home_store
+2025-11-18,Home Store,4792,Shopping,expense,home_store
+2025-11-18,Online Course,5515,Education,expense,online_course
+2025-11-18,Online Course,1460,Education,expense,online_course
+2025-11-19,Cab Ride,562,Transport,expense,cab_ride
+2025-11-19,Home Store,2933,Shopping,expense,home_store
+2025-11-19,Restaurant,3637,Food,expense,restaurant
+2025-11-19,Restaurant,2346,Food,expense,restaurant
+2025-11-19,Bonus,9767,Income,income,bonus
+2025-11-19,Interest Credit,582,Income,income,interest_credit
+2025-11-20,Cab Ride,2378,Transport,expense,cab_ride
+2025-11-20,Home Store,4809,Shopping,expense,home_store
+2025-11-20,Home Store,1028,Shopping,expense,home_store
+2025-11-20,Restaurant,1107,Food,expense,restaurant
+2025-11-21,Cab Ride,136,Transport,expense,cab_ride
+2025-11-21,Cab Ride,1465,Transport,expense,cab_ride
+2025-11-21,Bonus,23554,Income,income,bonus
+2025-11-22,Diagnostics,1453,Healthcare,expense,diagnostics
+2025-11-22,Food Delivery,2772,Food,expense,food_delivery
+2025-11-22,Home Store,9320,Shopping,expense,home_store
+2025-11-22,Home Store,11686,Shopping,expense,home_store
+2025-11-22,Supermarket,4587,Food,expense,supermarket
+2025-11-22,Bonus,13057,Income,income,bonus
+2025-11-23,Home Store,4125,Shopping,expense,home_store
+2025-11-23,Mobile Recharge,2561,Utilities,expense,mobile_recharge
+2025-11-23,Restaurant,5845,Food,expense,restaurant
+2025-11-23,Supermarket,2828,Food,expense,supermarket
+2025-11-23,Supermarket,5503,Food,expense,supermarket
+2025-11-24,Books,5843,Education,expense,books
+2025-11-24,Cab Ride,1205,Transport,expense,cab_ride
+2025-11-24,Mobile Recharge,3107,Utilities,expense,mobile_recharge
+2025-11-25,Food Delivery,362,Food,expense,food_delivery
+2025-11-25,Gaming Store,1601,Entertainment,expense,gaming_store
+2025-11-25,Grocery Store,2373,Food,expense,grocery_store
+2025-11-25,Home Store,6370,Shopping,expense,home_store
+2025-11-25,Online Course,4824,Education,expense,online_course
+2025-11-25,Restaurant,2428,Food,expense,restaurant
+2025-11-25,Freelance Client,11400,Income,income,freelance_client
+2025-11-26,Cafe,3326,Food,expense,cafe
+2025-11-26,Clinic Visit,4353,Healthcare,expense,clinic_visit
+2025-11-26,Food Delivery,4304,Food,expense,food_delivery
+2025-11-26,Restaurant,1004,Food,expense,restaurant
+2025-11-26,Restaurant,1547,Food,expense,restaurant
+2025-11-27,Cab Ride,1908,Transport,expense,cab_ride
+2025-11-27,Home Store,6129,Shopping,expense,home_store
+2025-11-27,Home Store,1854,Shopping,expense,home_store
+2025-11-27,Freelance Client,22339,Income,income,freelance_client
+2025-11-28,Cab Ride,1187,Transport,expense,cab_ride
+2025-11-28,Gaming Store,1953,Entertainment,expense,gaming_store
+2025-11-28,Grocery Store,3787,Food,expense,grocery_store
+2025-11-28,Supermarket,2745,Food,expense,supermarket
+2025-11-29,Cab Ride,1057,Transport,expense,cab_ride
+2025-11-29,Cab Ride,1222,Transport,expense,cab_ride
+2025-11-29,Cab Ride,728,Transport,expense,cab_ride
+2025-11-29,Food Delivery,1178,Food,expense,food_delivery
+2025-11-29,Supermarket,4877,Food,expense,supermarket
+2025-11-29,Freelance Client,22734,Income,income,freelance_client
+2025-11-29,Freelance Client,13389,Income,income,freelance_client
+2025-11-30,Cab Ride,192,Transport,expense,cab_ride
+2025-11-30,Clinic Visit,2958,Healthcare,expense,clinic_visit
+2025-11-30,Food Delivery,5572,Food,expense,food_delivery
+2025-11-30,Mobile Recharge,2023,Utilities,expense,mobile_recharge
+2025-11-30,Supermarket,6651,Food,expense,supermarket
+2025-11-30,Bonus,7834,Income,income,bonus
+2025-11-30,Freelance Client,22397,Income,income,freelance_client
+2025-12-01,Electricity Bill,1181,Utilities,expense,electricity_bill
+2025-12-01,Pharmacy,1600,Healthcare,expense,pharmacy
+2025-12-01,Salary,86151,Income,income,salary_credit
+2025-12-02,Cab Ride,2308,Transport,expense,cab_ride
+2025-12-02,Cab Ride,1931,Transport,expense,cab_ride
+2025-12-02,Diagnostics,3694,Healthcare,expense,diagnostics
+2025-12-02,Home Store,5807,Shopping,expense,home_store
+2025-12-02,Restaurant,4154,Food,expense,restaurant
+2025-12-02,Bonus,21632,Income,income,bonus
+2025-12-03,Cab Ride,511,Transport,expense,cab_ride
+2025-12-03,Cab Ride,1919,Transport,expense,cab_ride
+2025-12-03,Home Store,2635,Shopping,expense,home_store
+2025-12-03,Monthly Rent,24824,Rent,expense,monthly_rent
+2025-12-03,Restaurant,4967,Food,expense,restaurant
+2025-12-03,Supermarket,489,Food,expense,supermarket
+2025-12-03,Freelance Client,9345,Income,income,freelance_client
+2025-12-04,Cafe,3343,Food,expense,cafe
+2025-12-04,Cafe,2534,Food,expense,cafe
+2025-12-04,Certification,5654,Education,expense,certification
+2025-12-04,Electricity Bill,1277,Utilities,expense,electricity_bill
+2025-12-04,Gaming Store,547,Entertainment,expense,gaming_store
+2025-12-04,Gaming Store,973,Entertainment,expense,gaming_store
+2025-12-04,Home Store,3194,Shopping,expense,home_store
+2025-12-05,Cab Ride,1841,Transport,expense,cab_ride
+2025-12-05,Cab Ride,1780,Transport,expense,cab_ride
+2025-12-06,Books,440,Education,expense,books
+2025-12-06,Books,3145,Education,expense,books
+2025-12-06,Restaurant,3365,Food,expense,restaurant
+2025-12-06,Bonus,6636,Income,income,bonus
+2025-12-07,Books,3063,Education,expense,books
+2025-12-07,Home Store,8565,Shopping,expense,home_store
+2025-12-07,Home Store,8314,Shopping,expense,home_store
+2025-12-07,Pharmacy,898,Healthcare,expense,pharmacy
+2025-12-07,Supermarket,6097,Food,expense,supermarket
+2025-12-07,Bonus,7580,Income,income,bonus
+2025-12-07,Bonus,13955,Income,income,bonus
+2025-12-08,Cafe,1291,Food,expense,cafe
+2025-12-08,Food Delivery,2852,Food,expense,food_delivery
+2025-12-08,Supermarket,4524,Food,expense,supermarket
+2025-12-09,Cab Ride,299,Transport,expense,cab_ride
+2025-12-09,Food Delivery,339,Food,expense,food_delivery
+2025-12-09,Food Delivery,848,Food,expense,food_delivery
+2025-12-09,Grocery Store,3062,Food,expense,grocery_store
+2025-12-09,Home Store,7455,Shopping,expense,home_store
+2025-12-09,Mobile Recharge,2595,Utilities,expense,mobile_recharge
+2025-12-09,Interest Credit,1928,Income,income,interest_credit
+2025-12-10,Grocery Store,959,Food,expense,grocery_store
+2025-12-10,Home Store,4529,Shopping,expense,home_store
+2025-12-10,Supermarket,1618,Food,expense,supermarket
+2025-12-10,Bonus,21789,Income,income,bonus
+2025-12-10,Interest Credit,2195,Income,income,interest_credit
+2025-12-11,Books,3679,Education,expense,books
+2025-12-11,Home Store,949,Shopping,expense,home_store
+2025-12-12,Cab Ride,2306,Transport,expense,cab_ride
+2025-12-12,Supermarket,1532,Food,expense,supermarket
+2025-12-12,Bonus,14555,Income,income,bonus
+2025-12-13,Cab Ride,1802,Transport,expense,cab_ride
+2025-12-13,Cab Ride,1077,Transport,expense,cab_ride
+2025-12-13,Home Store,11265,Shopping,expense,home_store
+2025-12-13,Home Store,8145,Shopping,expense,home_store
+2025-12-13,Home Store,8383,Shopping,expense,home_store
+2025-12-13,Supermarket,3572,Food,expense,supermarket
+2025-12-14,Cab Ride,839,Transport,expense,cab_ride
+2025-12-14,Cafe,2328,Food,expense,cafe
+2025-12-14,Clinic Visit,2977,Healthcare,expense,clinic_visit
+2025-12-14,Food Delivery,5610,Food,expense,food_delivery
+2025-12-15,Cab Ride,1431,Transport,expense,cab_ride
+2025-12-15,Cab Ride,1871,Transport,expense,cab_ride
+2025-12-15,Electricity Bill,752,Utilities,expense,electricity_bill
+2025-12-15,Home Store,6079,Shopping,expense,home_store
+2025-12-15,Bonus,17449,Income,income,bonus
+2025-12-16,Cafe,414,Food,expense,cafe
+2025-12-17,Electricity Bill,1176,Utilities,expense,electricity_bill
+2025-12-17,Supermarket,2677,Food,expense,supermarket
+2025-12-18,Clinic Visit,899,Healthcare,expense,clinic_visit
+2025-12-18,Grocery Store,4544,Food,expense,grocery_store
+2025-12-18,Home Store,4821,Shopping,expense,home_store
+2025-12-19,Diagnostics,2644,Healthcare,expense,diagnostics
+2025-12-19,Interest Credit,2882,Income,income,interest_credit
+2025-12-20,Cab Ride,1300,Transport,expense,cab_ride
+2025-12-20,Grocery Store,4943,Food,expense,grocery_store
+2025-12-20,Home Store,11156,Shopping,expense,home_store
+2025-12-20,Online Course,1350,Education,expense,online_course
+2025-12-20,Supermarket,3046,Food,expense,supermarket
+2025-12-20,Freelance Client,17779,Income,income,freelance_client
+2025-12-21,Cab Ride,844,Transport,expense,cab_ride
+2025-12-21,Food Delivery,1331,Food,expense,food_delivery
+2025-12-21,Food Delivery,4221,Food,expense,food_delivery
+2025-12-21,Gaming Store,2928,Entertainment,expense,gaming_store
+2025-12-21,Grocery Store,6238,Food,expense,grocery_store
+2025-12-21,Home Store,9246,Shopping,expense,home_store
+2025-12-22,Books,5136,Education,expense,books
+2025-12-22,Cafe,3932,Food,expense,cafe
+2025-12-22,Food Delivery,3503,Food,expense,food_delivery
+2025-12-22,Home Store,3854,Shopping,expense,home_store
+2025-12-22,Home Store,4535,Shopping,expense,home_store
+2025-12-22,Home Store,6700,Shopping,expense,home_store
+2025-12-22,Mobile Recharge,2459,Utilities,expense,mobile_recharge
+2025-12-22,Online Course,785,Education,expense,online_course
+2025-12-22,Interest Credit,1616,Income,income,interest_credit
+2025-12-23,Books,4239,Education,expense,books
+2025-12-23,Cab Ride,362,Transport,expense,cab_ride
+2025-12-23,Cab Ride,1931,Transport,expense,cab_ride
+2025-12-23,Gaming Store,661,Entertainment,expense,gaming_store
+2025-12-23,Home Store,8828,Shopping,expense,home_store
+2025-12-23,Pharmacy,566,Healthcare,expense,pharmacy
+2025-12-23,Bonus,11690,Income,income,bonus
+2025-12-24,Mobile Recharge,1275,Utilities,expense,mobile_recharge
+2025-12-25,Gaming Store,1689,Entertainment,expense,gaming_store
+2025-12-25,Home Store,7878,Shopping,expense,home_store
+2025-12-25,Interest Credit,892,Income,income,interest_credit
+2025-12-26,Electricity Bill,1099,Utilities,expense,electricity_bill
+2025-12-26,Electricity Bill,1130,Utilities,expense,electricity_bill
+2025-12-26,Internet Bill,1682,Utilities,expense,internet_bill
+2025-12-26,Freelance Client,20778,Income,income,freelance_client
+2025-12-27,Cab Ride,1794,Transport,expense,cab_ride
+2025-12-27,Online Course,3896,Education,expense,online_course
+2025-12-27,Restaurant,2088,Food,expense,restaurant
+2025-12-27,Bonus,19914,Income,income,bonus
+2025-12-28,Cab Ride,633,Transport,expense,cab_ride
+2025-12-28,Cab Ride,736,Transport,expense,cab_ride
+2025-12-28,Grocery Store,4988,Food,expense,grocery_store
+2025-12-28,Grocery Store,4054,Food,expense,grocery_store
+2025-12-28,Home Store,2473,Shopping,expense,home_store
+2025-12-28,Online Course,1563,Education,expense,online_course
+2025-12-29,Clinic Visit,1923,Healthcare,expense,clinic_visit
+2025-12-29,Diagnostics,2231,Healthcare,expense,diagnostics
+2025-12-29,Home Store,4923,Shopping,expense,home_store
+2025-12-29,Pharmacy,3645,Healthcare,expense,pharmacy
+2025-12-29,Supermarket,2960,Food,expense,supermarket
+2025-12-29,Freelance Client,11365,Income,income,freelance_client
+2025-12-29,Interest Credit,3200,Income,income,interest_credit
+2025-12-30,Cab Ride,182,Transport,expense,cab_ride
+2025-12-30,Home Store,5266,Shopping,expense,home_store
+2025-12-30,Home Store,4541,Shopping,expense,home_store
+2025-12-30,Home Store,1483,Shopping,expense,home_store
+2025-12-30,Online Course,455,Education,expense,online_course
+2025-12-31,Gaming Store,1539,Entertainment,expense,gaming_store
+2025-12-31,Home Store,7875,Shopping,expense,home_store
+2025-12-31,Mobile Recharge,2825,Utilities,expense,mobile_recharge
+2025-12-31,Pharmacy,1912,Healthcare,expense,pharmacy
+2025-12-31,Restaurant,1707,Food,expense,restaurant
+2026-01-01,Salary,81939,Income,income,salary_credit
+2026-01-02,Diagnostics,4283,Healthcare,expense,diagnostics
+2026-01-02,Electricity Bill,415,Utilities,expense,electricity_bill
+2026-01-02,Grocery Store,1759,Food,expense,grocery_store
+2026-01-02,Grocery Store,1515,Food,expense,grocery_store
+2026-01-02,Home Store,6762,Shopping,expense,home_store
+2026-01-02,Home Store,1177,Shopping,expense,home_store
+2026-01-02,Pharmacy,2087,Healthcare,expense,pharmacy
+2026-01-02,Restaurant,4320,Food,expense,restaurant
+2026-01-02,Supermarket,2567,Food,expense,supermarket
+2026-01-02,Freelance Client,9555,Income,income,freelance_client
+2026-01-03,Cab Ride,2387,Transport,expense,cab_ride
+2026-01-03,Cafe,5216,Food,expense,cafe
+2026-01-03,Gaming Store,287,Entertainment,expense,gaming_store
+2026-01-03,Home Store,10636,Shopping,expense,home_store
+2026-01-03,Monthly Rent,27468,Rent,expense,monthly_rent
+2026-01-03,Bonus,9246,Income,income,bonus
+2026-01-04,Cafe,3457,Food,expense,cafe
+2026-01-04,Food Delivery,2775,Food,expense,food_delivery
+2026-01-04,Grocery Store,4014,Food,expense,grocery_store
+2026-01-04,Home Store,1066,Shopping,expense,home_store
+2026-01-04,Pharmacy,397,Healthcare,expense,pharmacy
+2026-01-04,Freelance Client,9476,Income,income,freelance_client
+2026-01-05,Certification,5367,Education,expense,certification
+2026-01-05,Home Store,7065,Shopping,expense,home_store
+2026-01-05,Mobile Recharge,1684,Utilities,expense,mobile_recharge
+2026-01-06,Home Store,7392,Shopping,expense,home_store
+2026-01-06,Supermarket,3257,Food,expense,supermarket
+2026-01-07,Electricity Bill,1033,Utilities,expense,electricity_bill
+2026-01-07,Grocery Store,3415,Food,expense,grocery_store
+2026-01-07,Mobile Recharge,2537,Utilities,expense,mobile_recharge
+2026-01-07,Supermarket,1152,Food,expense,supermarket
+2026-01-08,Restaurant,4837,Food,expense,restaurant
+2026-01-08,Supermarket,1845,Food,expense,supermarket
+2026-01-09,Electricity Bill,3450,Utilities,expense,electricity_bill
+2026-01-09,Food Delivery,336,Food,expense,food_delivery
+2026-01-09,Gaming Store,1407,Entertainment,expense,gaming_store
+2026-01-09,Restaurant,1001,Food,expense,restaurant
+2026-01-09,Supermarket,1620,Food,expense,supermarket
+2026-01-09,Bonus,18415,Income,income,bonus
+2026-01-09,Bonus,14848,Income,income,bonus
+2026-01-09,Freelance Client,11945,Income,income,freelance_client
+2026-01-11,Books,5363,Education,expense,books
+2026-01-11,Books,3359,Education,expense,books
+2026-01-11,Cab Ride,727,Transport,expense,cab_ride
+2026-01-11,Cab Ride,2416,Transport,expense,cab_ride
+2026-01-11,Cafe,3569,Food,expense,cafe
+2026-01-11,Home Store,6531,Shopping,expense,home_store
+2026-01-11,Home Store,1464,Shopping,expense,home_store
+2026-01-11,Mobile Recharge,1051,Utilities,expense,mobile_recharge
+2026-01-11,Online Course,5191,Education,expense,online_course
+2026-01-11,Bonus,7020,Income,income,bonus
+2026-01-11,Freelance Client,15842,Income,income,freelance_client
+2026-01-12,Cab Ride,1606,Transport,expense,cab_ride
+2026-01-12,Clinic Visit,2161,Healthcare,expense,clinic_visit
+2026-01-12,Food Delivery,1624,Food,expense,food_delivery
+2026-01-12,Gaming Store,231,Entertainment,expense,gaming_store
+2026-01-12,Home Store,2966,Shopping,expense,home_store
+2026-01-12,Pharmacy,1856,Healthcare,expense,pharmacy
+2026-01-12,Restaurant,957,Food,expense,restaurant
+2026-01-13,Diagnostics,1461,Healthcare,expense,diagnostics
+2026-01-13,Food Delivery,4536,Food,expense,food_delivery
+2026-01-13,Gaming Store,1079,Entertainment,expense,gaming_store
+2026-01-13,Grocery Store,968,Food,expense,grocery_store
+2026-01-13,Grocery Store,3312,Food,expense,grocery_store
+2026-01-13,Home Store,8643,Shopping,expense,home_store
+2026-01-13,Freelance Client,27807,Income,income,freelance_client
+2026-01-13,Interest Credit,1685,Income,income,interest_credit
+2026-01-14,Certification,2072,Education,expense,certification
+2026-01-14,Diagnostics,2038,Healthcare,expense,diagnostics
+2026-01-14,Grocery Store,4482,Food,expense,grocery_store
+2026-01-14,Home Store,4512,Shopping,expense,home_store
+2026-01-14,Mobile Recharge,1960,Utilities,expense,mobile_recharge
+2026-01-15,Cab Ride,462,Transport,expense,cab_ride
+2026-01-15,Electricity Bill,935,Utilities,expense,electricity_bill
+2026-01-16,Cab Ride,583,Transport,expense,cab_ride
+2026-01-16,Diagnostics,658,Healthcare,expense,diagnostics
+2026-01-16,Food Delivery,2095,Food,expense,food_delivery
+2026-01-16,Home Store,7420,Shopping,expense,home_store
+2026-01-16,Home Store,6732,Shopping,expense,home_store
+2026-01-16,Home Store,1421,Shopping,expense,home_store
+2026-01-17,Cab Ride,423,Transport,expense,cab_ride
+2026-01-17,Cab Ride,672,Transport,expense,cab_ride
+2026-01-17,Cafe,4590,Food,expense,cafe
+2026-01-17,Home Store,8409,Shopping,expense,home_store
+2026-01-17,Pharmacy,3821,Healthcare,expense,pharmacy
+2026-01-17,Supermarket,2640,Food,expense,supermarket
+2026-01-17,Freelance Client,20299,Income,income,freelance_client
+2026-01-18,Cab Ride,1973,Transport,expense,cab_ride
+2026-01-18,Cafe,345,Food,expense,cafe
+2026-01-18,Diagnostics,3672,Healthcare,expense,diagnostics
+2026-01-18,Food Delivery,719,Food,expense,food_delivery
+2026-01-18,Gaming Store,517,Entertainment,expense,gaming_store
+2026-01-18,Bonus,9523,Income,income,bonus
+2026-01-19,Cab Ride,1704,Transport,expense,cab_ride
+2026-01-19,Cab Ride,1969,Transport,expense,cab_ride
+2026-01-19,Grocery Store,734,Food,expense,grocery_store
+2026-01-20,Certification,5245,Education,expense,certification
+2026-01-20,Diagnostics,477,Healthcare,expense,diagnostics
+2026-01-20,Food Delivery,4907,Food,expense,food_delivery
+2026-01-20,Gaming Store,281,Entertainment,expense,gaming_store
+2026-01-20,Restaurant,4544,Food,expense,restaurant
+2026-01-20,Interest Credit,3099,Income,income,interest_credit
+2026-01-21,Cab Ride,2013,Transport,expense,cab_ride
+2026-01-21,Electricity Bill,1697,Utilities,expense,electricity_bill
+2026-01-21,Food Delivery,2346,Food,expense,food_delivery
+2026-01-21,Home Store,1275,Shopping,expense,home_store
+2026-01-21,Home Store,7211,Shopping,expense,home_store
+2026-01-21,Restaurant,2627,Food,expense,restaurant
+2026-01-22,Electricity Bill,1894,Utilities,expense,electricity_bill
+2026-01-22,Grocery Store,2775,Food,expense,grocery_store
+2026-01-22,Home Store,7763,Shopping,expense,home_store
+2026-01-22,Online Course,388,Education,expense,online_course
+2026-01-23,Cab Ride,1538,Transport,expense,cab_ride
+2026-01-23,Interest Credit,1016,Income,income,interest_credit
+2026-01-24,Home Store,10019,Shopping,expense,home_store
+2026-01-24,Restaurant,6083,Food,expense,restaurant
+2026-01-24,Interest Credit,3208,Income,income,interest_credit
+2026-01-25,Home Store,2598,Shopping,expense,home_store
+2026-01-25,Restaurant,3746,Food,expense,restaurant
+2026-01-26,Cab Ride,675,Transport,expense,cab_ride
+2026-01-26,Electricity Bill,3280,Utilities,expense,electricity_bill
+2026-01-26,Gaming Store,737,Entertainment,expense,gaming_store
+2026-01-26,Home Store,7082,Shopping,expense,home_store
+2026-01-26,Home Store,3648,Shopping,expense,home_store
+2026-01-26,Bonus,23987,Income,income,bonus
+2026-01-26,Bonus,19194,Income,income,bonus
+2026-01-27,Certification,5291,Education,expense,certification
+2026-01-27,Diagnostics,3455,Healthcare,expense,diagnostics
+2026-01-27,Gaming Store,809,Entertainment,expense,gaming_store
+2026-01-28,Cab Ride,2320,Transport,expense,cab_ride
+2026-01-28,Cafe,2561,Food,expense,cafe
+2026-01-28,Certification,2899,Education,expense,certification
+2026-01-28,Gaming Store,289,Entertainment,expense,gaming_store
+2026-01-28,Gaming Store,1597,Entertainment,expense,gaming_store
+2026-01-28,Home Store,2634,Shopping,expense,home_store
+2026-01-28,Internet Bill,1939,Utilities,expense,internet_bill
+2026-01-28,Restaurant,4958,Food,expense,restaurant
+2026-01-28,Interest Credit,1640,Income,income,interest_credit
+2026-01-29,Food Delivery,3609,Food,expense,food_delivery
+2026-01-29,Home Store,1703,Shopping,expense,home_store
+2026-01-29,Supermarket,2387,Food,expense,supermarket
+2026-01-29,Freelance Client,12813,Income,income,freelance_client
+2026-01-29,Interest Credit,2994,Income,income,interest_credit
+2026-01-30,Cab Ride,2102,Transport,expense,cab_ride
+2026-01-30,Cab Ride,170,Transport,expense,cab_ride
+2026-01-30,Certification,4469,Education,expense,certification
+2026-01-30,Gaming Store,1493,Entertainment,expense,gaming_store
+2026-01-30,Home Store,5317,Shopping,expense,home_store
+2026-01-30,Freelance Client,11336,Income,income,freelance_client
+2026-01-30,Freelance Client,23636,Income,income,freelance_client
+2026-01-31,Restaurant,6467,Food,expense,restaurant
+2026-01-31,Supermarket,2154,Food,expense,supermarket
+2026-02-01,Books,791,Education,expense,books
+2026-02-01,Books,3444,Education,expense,books
+2026-02-01,Clinic Visit,390,Healthcare,expense,clinic_visit
+2026-02-01,Home Store,6544,Shopping,expense,home_store
+2026-02-01,Home Store,11902,Shopping,expense,home_store
+2026-02-01,Pharmacy,1142,Healthcare,expense,pharmacy
+2026-02-01,Supermarket,4309,Food,expense,supermarket
+2026-02-01,Interest Credit,3288,Income,income,interest_credit
+2026-02-01,Salary,81870,Income,income,salary_credit
+2026-02-02,Cab Ride,751,Transport,expense,cab_ride
+2026-02-02,Cab Ride,2157,Transport,expense,cab_ride
+2026-02-02,Mobile Recharge,2133,Utilities,expense,mobile_recharge
+2026-02-02,Bonus,9355,Income,income,bonus
+2026-02-03,Cab Ride,140,Transport,expense,cab_ride
+2026-02-03,Cafe,3605,Food,expense,cafe
+2026-02-03,Diagnostics,3721,Healthcare,expense,diagnostics
+2026-02-03,Diagnostics,3476,Healthcare,expense,diagnostics
+2026-02-03,Electricity Bill,1449,Utilities,expense,electricity_bill
+2026-02-03,Home Store,6277,Shopping,expense,home_store
+2026-02-03,Mobile Recharge,2545,Utilities,expense,mobile_recharge
+2026-02-03,Monthly Rent,27058,Rent,expense,monthly_rent
+2026-02-04,Books,1107,Education,expense,books
+2026-02-04,Books,521,Education,expense,books
+2026-02-04,Cab Ride,1893,Transport,expense,cab_ride
+2026-02-04,Cab Ride,1416,Transport,expense,cab_ride
+2026-02-04,Clinic Visit,1815,Healthcare,expense,clinic_visit
+2026-02-04,Food Delivery,2643,Food,expense,food_delivery
+2026-02-04,Home Store,1139,Shopping,expense,home_store
+2026-02-04,Home Store,7164,Shopping,expense,home_store
+2026-02-04,Home Store,2268,Shopping,expense,home_store
+2026-02-04,Internet Bill,2049,Utilities,expense,internet_bill
+2026-02-05,Cab Ride,935,Transport,expense,cab_ride
+2026-02-05,Electricity Bill,2197,Utilities,expense,electricity_bill
+2026-02-05,Electricity Bill,1694,Utilities,expense,electricity_bill
+2026-02-05,Food Delivery,258,Food,expense,food_delivery
+2026-02-05,Supermarket,463,Food,expense,supermarket
+2026-02-05,Supermarket,446,Food,expense,supermarket
+2026-02-05,Bonus,14271,Income,income,bonus
+2026-02-06,Cab Ride,819,Transport,expense,cab_ride
+2026-02-06,Grocery Store,1949,Food,expense,grocery_store
+2026-02-06,Mobile Recharge,2127,Utilities,expense,mobile_recharge
+2026-02-07,Cab Ride,406,Transport,expense,cab_ride
+2026-02-07,Clinic Visit,2161,Healthcare,expense,clinic_visit
+2026-02-07,Grocery Store,6550,Food,expense,grocery_store
+2026-02-07,Home Store,2509,Shopping,expense,home_store
+2026-02-07,Internet Bill,3145,Utilities,expense,internet_bill
+2026-02-07,Internet Bill,650,Utilities,expense,internet_bill
+2026-02-08,Books,1838,Education,expense,books
+2026-02-08,Books,570,Education,expense,books
+2026-02-08,Cab Ride,613,Transport,expense,cab_ride
+2026-02-08,Cab Ride,1594,Transport,expense,cab_ride
+2026-02-08,Cafe,4872,Food,expense,cafe
+2026-02-08,Electricity Bill,1077,Utilities,expense,electricity_bill
+2026-02-08,Restaurant,5409,Food,expense,restaurant
+2026-02-08,Supermarket,1706,Food,expense,supermarket
+2026-02-09,Cab Ride,2031,Transport,expense,cab_ride
+2026-02-09,Cab Ride,887,Transport,expense,cab_ride
+2026-02-09,Cab Ride,1699,Transport,expense,cab_ride
+2026-02-09,Grocery Store,3596,Food,expense,grocery_store
+2026-02-09,Home Store,6910,Shopping,expense,home_store
+2026-02-09,Home Store,3853,Shopping,expense,home_store
+2026-02-09,Pharmacy,1242,Healthcare,expense,pharmacy
+2026-02-09,Restaurant,442,Food,expense,restaurant
+2026-02-09,Interest Credit,1350,Income,income,interest_credit
+2026-02-10,Cab Ride,2259,Transport,expense,cab_ride
+2026-02-10,Cafe,2550,Food,expense,cafe
+2026-02-10,Home Store,5010,Shopping,expense,home_store
+2026-02-10,Internet Bill,2839,Utilities,expense,internet_bill
+2026-02-10,Freelance Client,24494,Income,income,freelance_client
+2026-02-11,Diagnostics,3260,Healthcare,expense,diagnostics
+2026-02-11,Home Store,4982,Shopping,expense,home_store
+2026-02-11,Internet Bill,2691,Utilities,expense,internet_bill
+2026-02-11,Bonus,20422,Income,income,bonus
+2026-02-12,Diagnostics,1722,Healthcare,expense,diagnostics
+2026-02-12,Restaurant,929,Food,expense,restaurant
+2026-02-13,Books,4259,Education,expense,books
+2026-02-13,Gaming Store,1175,Entertainment,expense,gaming_store
+2026-02-13,Home Store,7366,Shopping,expense,home_store
+2026-02-14,Food Delivery,3964,Food,expense,food_delivery
+2026-02-14,Gaming Store,2452,Entertainment,expense,gaming_store
+2026-02-14,Online Course,4682,Education,expense,online_course
+2026-02-14,Pharmacy,3387,Healthcare,expense,pharmacy
+2026-02-14,Restaurant,2548,Food,expense,restaurant
+2026-02-15,Home Store,11330,Shopping,expense,home_store
+2026-02-15,Internet Bill,1521,Utilities,expense,internet_bill
+2026-02-15,Restaurant,3226,Food,expense,restaurant
+2026-02-15,Restaurant,6667,Food,expense,restaurant
+2026-02-15,Interest Credit,3374,Income,income,interest_credit
+2026-02-16,Cab Ride,1694,Transport,expense,cab_ride
+2026-02-16,Cafe,4316,Food,expense,cafe
+2026-02-16,Electricity Bill,1630,Utilities,expense,electricity_bill
+2026-02-16,Home Store,6661,Shopping,expense,home_store
+2026-02-16,Supermarket,3641,Food,expense,supermarket
+2026-02-17,Cab Ride,2368,Transport,expense,cab_ride
+2026-02-17,Diagnostics,4144,Healthcare,expense,diagnostics
+2026-02-17,Food Delivery,1493,Food,expense,food_delivery
+2026-02-17,Home Store,2948,Shopping,expense,home_store
+2026-02-17,Home Store,6149,Shopping,expense,home_store
+2026-02-17,Interest Credit,3106,Income,income,interest_credit
+2026-02-17,Interest Credit,793,Income,income,interest_credit
+2026-02-18,Diagnostics,4032,Healthcare,expense,diagnostics
+2026-02-18,Diagnostics,4372,Healthcare,expense,diagnostics
+2026-02-18,Gaming Store,299,Entertainment,expense,gaming_store
+2026-02-18,Bonus,14533,Income,income,bonus
+2026-02-19,Cab Ride,2470,Transport,expense,cab_ride
+2026-02-19,Cab Ride,2041,Transport,expense,cab_ride
+2026-02-19,Home Store,2421,Shopping,expense,home_store
+2026-02-20,Cab Ride,1772,Transport,expense,cab_ride
+2026-02-20,Gaming Store,541,Entertainment,expense,gaming_store
+2026-02-20,Freelance Client,15504,Income,income,freelance_client
+2026-02-21,Cab Ride,240,Transport,expense,cab_ride
+2026-02-21,Cab Ride,946,Transport,expense,cab_ride
+2026-02-21,Cab Ride,255,Transport,expense,cab_ride
+2026-02-21,Pharmacy,2208,Healthcare,expense,pharmacy
+2026-02-22,Gaming Store,328,Entertainment,expense,gaming_store
+2026-02-23,Freelance Client,10557,Income,income,freelance_client
+2026-02-23,Interest Credit,1346,Income,income,interest_credit
+2026-02-24,Freelance Client,21315,Income,income,freelance_client
+2026-02-25,Home Store,1227,Shopping,expense,home_store
+2026-02-26,Cab Ride,684,Transport,expense,cab_ride
+2026-02-26,Cafe,392,Food,expense,cafe
+2026-02-26,Cafe,1021,Food,expense,cafe
+2026-02-27,Cafe,2930,Food,expense,cafe
+2026-02-27,Certification,3249,Education,expense,certification
+2026-02-27,Food Delivery,3671,Food,expense,food_delivery
+2026-02-27,Gaming Store,867,Entertainment,expense,gaming_store
+2026-02-27,Home Store,6976,Shopping,expense,home_store
+2026-02-27,Internet Bill,1904,Utilities,expense,internet_bill
+2026-02-27,Internet Bill,3051,Utilities,expense,internet_bill
+2026-02-28,Cab Ride,2485,Transport,expense,cab_ride
+2026-02-28,Home Store,2304,Shopping,expense,home_store
+2026-02-28,Internet Bill,1886,Utilities,expense,internet_bill
+2026-02-28,Interest Credit,1289,Income,income,interest_credit
+2026-03-01,Electricity Bill,1002,Utilities,expense,electricity_bill
+2026-03-01,Food Delivery,538,Food,expense,food_delivery
+2026-03-01,Home Store,9001,Shopping,expense,home_store
+2026-03-01,Salary,86665,Income,income,salary_credit
+2026-03-02,Cab Ride,587,Transport,expense,cab_ride
+2026-03-02,Clinic Visit,3624,Healthcare,expense,clinic_visit
+2026-03-02,Diagnostics,1315,Healthcare,expense,diagnostics
+2026-03-02,Home Store,5350,Shopping,expense,home_store
+2026-03-02,Home Store,8852,Shopping,expense,home_store
+2026-03-02,Home Store,1866,Shopping,expense,home_store
+2026-03-02,Internet Bill,2637,Utilities,expense,internet_bill
+2026-03-03,Cab Ride,2483,Transport,expense,cab_ride
+2026-03-03,Electricity Bill,463,Utilities,expense,electricity_bill
+2026-03-03,Home Store,3382,Shopping,expense,home_store
+2026-03-03,Internet Bill,406,Utilities,expense,internet_bill
+2026-03-03,Monthly Rent,24693,Rent,expense,monthly_rent
+2026-03-04,Cab Ride,889,Transport,expense,cab_ride
+2026-03-04,Certification,2632,Education,expense,certification
+2026-03-04,Food Delivery,2459,Food,expense,food_delivery
+2026-03-04,Internet Bill,726,Utilities,expense,internet_bill
+2026-03-05,Books,1610,Education,expense,books
+2026-03-05,Grocery Store,435,Food,expense,grocery_store
+2026-03-05,Home Store,5260,Shopping,expense,home_store
+2026-03-05,Home Store,1871,Shopping,expense,home_store
+2026-03-05,Home Store,7096,Shopping,expense,home_store
+2026-03-05,Home Store,3729,Shopping,expense,home_store
+2026-03-05,Online Course,1498,Education,expense,online_course
+2026-03-05,Interest Credit,2856,Income,income,interest_credit
+2026-03-06,Cab Ride,1502,Transport,expense,cab_ride
+2026-03-06,Clinic Visit,3906,Healthcare,expense,clinic_visit
+2026-03-06,Home Store,7126,Shopping,expense,home_store
+2026-03-06,Mobile Recharge,1424,Utilities,expense,mobile_recharge
+2026-03-07,Cab Ride,123,Transport,expense,cab_ride
+2026-03-07,Restaurant,4587,Food,expense,restaurant
+2026-03-08,Cab Ride,1136,Transport,expense,cab_ride
+2026-03-08,Certification,2517,Education,expense,certification
+2026-03-08,Certification,952,Education,expense,certification
+2026-03-08,Gaming Store,722,Entertainment,expense,gaming_store
+2026-03-08,Home Store,4407,Shopping,expense,home_store
+2026-03-08,Home Store,4105,Shopping,expense,home_store
+2026-03-08,Bonus,7198,Income,income,bonus
+2026-03-08,Bonus,10722,Income,income,bonus
+2026-03-08,Interest Credit,1563,Income,income,interest_credit
+2026-03-09,Cab Ride,324,Transport,expense,cab_ride
+2026-03-09,Cafe,4046,Food,expense,cafe
+2026-03-09,Certification,5539,Education,expense,certification
+2026-03-09,Diagnostics,2712,Healthcare,expense,diagnostics
+2026-03-09,Online Course,4897,Education,expense,online_course
+2026-03-10,Certification,1360,Education,expense,certification
+2026-03-10,Diagnostics,632,Healthcare,expense,diagnostics
+2026-03-10,Food Delivery,3294,Food,expense,food_delivery
+2026-03-10,Gaming Store,1479,Entertainment,expense,gaming_store
+2026-03-10,Mobile Recharge,1007,Utilities,expense,mobile_recharge
+2026-03-11,Cab Ride,375,Transport,expense,cab_ride
+2026-03-11,Restaurant,3084,Food,expense,restaurant
+2026-03-12,Home Store,865,Shopping,expense,home_store
+2026-03-12,Online Course,2193,Education,expense,online_course
+2026-03-12,Pharmacy,888,Healthcare,expense,pharmacy
+2026-03-12,Freelance Client,26792,Income,income,freelance_client
+2026-03-12,Interest Credit,3324,Income,income,interest_credit
+2026-03-13,Cab Ride,1580,Transport,expense,cab_ride
+2026-03-13,Clinic Visit,3299,Healthcare,expense,clinic_visit
+2026-03-13,Home Store,7197,Shopping,expense,home_store
+2026-03-13,Home Store,3804,Shopping,expense,home_store
+2026-03-13,Internet Bill,1897,Utilities,expense,internet_bill
+2026-03-13,Mobile Recharge,2308,Utilities,expense,mobile_recharge
+2026-03-13,Pharmacy,3657,Healthcare,expense,pharmacy
+2026-03-13,Supermarket,462,Food,expense,supermarket
+2026-03-14,Cab Ride,483,Transport,expense,cab_ride
+2026-03-14,Cab Ride,1760,Transport,expense,cab_ride
+2026-03-14,Diagnostics,2693,Healthcare,expense,diagnostics
+2026-03-14,Gaming Store,627,Entertainment,expense,gaming_store
+2026-03-15,Cab Ride,2318,Transport,expense,cab_ride
+2026-03-15,Cab Ride,341,Transport,expense,cab_ride
+2026-03-15,Cab Ride,415,Transport,expense,cab_ride
+2026-03-15,Cafe,5643,Food,expense,cafe
+2026-03-15,Freelance Client,18577,Income,income,freelance_client
+2026-03-16,Cab Ride,1002,Transport,expense,cab_ride
+2026-03-16,Cafe,3366,Food,expense,cafe
+2026-03-16,Food Delivery,4593,Food,expense,food_delivery
+2026-03-16,Home Store,6048,Shopping,expense,home_store
+2026-03-16,Freelance Client,27077,Income,income,freelance_client
+2026-03-17,Bonus,22719,Income,income,bonus
+2026-03-18,Cafe,2477,Food,expense,cafe
+2026-03-18,Home Store,7423,Shopping,expense,home_store
+2026-03-18,Internet Bill,648,Utilities,expense,internet_bill
+2026-03-18,Supermarket,4162,Food,expense,supermarket
+2026-03-18,Freelance Client,11366,Income,income,freelance_client
+2026-03-19,Cab Ride,974,Transport,expense,cab_ride
+2026-03-19,Electricity Bill,3435,Utilities,expense,electricity_bill
+2026-03-19,Food Delivery,999,Food,expense,food_delivery
+2026-03-19,Food Delivery,3867,Food,expense,food_delivery
+2026-03-19,Online Course,1005,Education,expense,online_course
+2026-03-19,Bonus,22482,Income,income,bonus
+2026-03-19,Freelance Client,22822,Income,income,freelance_client
+2026-03-20,Cab Ride,2050,Transport,expense,cab_ride
+2026-03-20,Cab Ride,547,Transport,expense,cab_ride
+2026-03-20,Internet Bill,1313,Utilities,expense,internet_bill
+2026-03-20,Mobile Recharge,2904,Utilities,expense,mobile_recharge
+2026-03-20,Restaurant,536,Food,expense,restaurant
+2026-03-21,Electricity Bill,3254,Utilities,expense,electricity_bill
+2026-03-21,Gaming Store,2731,Entertainment,expense,gaming_store
+2026-03-21,Grocery Store,5402,Food,expense,grocery_store
+2026-03-21,Mobile Recharge,3160,Utilities,expense,mobile_recharge
+2026-03-21,Pharmacy,1431,Healthcare,expense,pharmacy
+2026-03-21,Bonus,5273,Income,income,bonus
+2026-03-21,Bonus,5465,Income,income,bonus
+2026-03-22,Books,1653,Education,expense,books
+2026-03-22,Cab Ride,1719,Transport,expense,cab_ride
+2026-03-22,Certification,5174,Education,expense,certification
+2026-03-22,Clinic Visit,2580,Healthcare,expense,clinic_visit
+2026-03-22,Diagnostics,938,Healthcare,expense,diagnostics
+2026-03-22,Online Course,4231,Education,expense,online_course
+2026-03-23,Online Course,2141,Education,expense,online_course
+2026-03-23,Restaurant,1684,Food,expense,restaurant
+2026-03-23,Supermarket,2631,Food,expense,supermarket
+2026-03-24,Home Store,4371,Shopping,expense,home_store
+2026-03-24,Internet Bill,2724,Utilities,expense,internet_bill
+2026-03-24,Restaurant,2804,Food,expense,restaurant
+2026-03-24,Supermarket,3930,Food,expense,supermarket
+2026-03-25,Clinic Visit,1997,Healthcare,expense,clinic_visit
+2026-03-25,Home Store,2997,Shopping,expense,home_store
+2026-03-25,Internet Bill,569,Utilities,expense,internet_bill
+2026-03-25,Interest Credit,1794,Income,income,interest_credit
+2026-03-26,Books,5289,Education,expense,books
+2026-03-26,Cab Ride,1663,Transport,expense,cab_ride
+2026-03-26,Gaming Store,1723,Entertainment,expense,gaming_store
+2026-03-26,Home Store,8951,Shopping,expense,home_store
+2026-03-26,Internet Bill,1218,Utilities,expense,internet_bill
+2026-03-26,Supermarket,463,Food,expense,supermarket
+2026-03-27,Cab Ride,2041,Transport,expense,cab_ride
+2026-03-27,Cafe,2863,Food,expense,cafe
+2026-03-27,Clinic Visit,2870,Healthcare,expense,clinic_visit
+2026-03-27,Food Delivery,3610,Food,expense,food_delivery
+2026-03-27,Gaming Store,1551,Entertainment,expense,gaming_store
+2026-03-27,Home Store,4545,Shopping,expense,home_store
+2026-03-27,Mobile Recharge,2170,Utilities,expense,mobile_recharge
+2026-03-28,Cab Ride,1323,Transport,expense,cab_ride
+2026-03-28,Cab Ride,2172,Transport,expense,cab_ride
+2026-03-28,Clinic Visit,843,Healthcare,expense,clinic_visit
+2026-03-28,Food Delivery,3794,Food,expense,food_delivery
+2026-03-28,Home Store,9495,Shopping,expense,home_store
+2026-03-29,Cab Ride,1650,Transport,expense,cab_ride
+2026-03-29,Clinic Visit,4144,Healthcare,expense,clinic_visit
+2026-03-30,Cafe,4133,Food,expense,cafe
+2026-03-30,Clinic Visit,2035,Healthcare,expense,clinic_visit
+2026-03-31,Books,5658,Education,expense,books
+2026-03-31,Food Delivery,1172,Food,expense,food_delivery
+2026-03-31,Gaming Store,239,Entertainment,expense,gaming_store
+2026-03-31,Home Store,7649,Shopping,expense,home_store
+2026-03-31,Home Store,8348,Shopping,expense,home_store
+2026-03-31,Home Store,6540,Shopping,expense,home_store
+2026-03-31,Bonus,14163,Income,income,bonus
+2026-04-01,Cab Ride,1246,Transport,expense,cab_ride
+2026-04-01,Home Store,8790,Shopping,expense,home_store
+2026-04-01,Restaurant,677,Food,expense,restaurant
+2026-04-01,Interest Credit,3018,Income,income,interest_credit
+2026-04-01,Interest Credit,1039,Income,income,interest_credit
+2026-04-01,Salary,81030,Income,income,salary_credit
+2026-04-02,Certification,5922,Education,expense,certification
+2026-04-02,Certification,2211,Education,expense,certification
+2026-04-02,Food Delivery,693,Food,expense,food_delivery
+2026-04-02,Gaming Store,1065,Entertainment,expense,gaming_store
+2026-04-02,Home Store,5723,Shopping,expense,home_store
+2026-04-02,Online Course,2332,Education,expense,online_course
+2026-04-02,Supermarket,2900,Food,expense,supermarket
+2026-04-02,Interest Credit,2440,Income,income,interest_credit
+2026-04-03,Books,2116,Education,expense,books
+2026-04-03,Books,4916,Education,expense,books
+2026-04-03,Cab Ride,1244,Transport,expense,cab_ride
+2026-04-03,Electricity Bill,821,Utilities,expense,electricity_bill
+2026-04-03,Food Delivery,3652,Food,expense,food_delivery
+2026-04-03,Gaming Store,1321,Entertainment,expense,gaming_store
+2026-04-03,Internet Bill,3203,Utilities,expense,internet_bill
+2026-04-03,Monthly Rent,25163,Rent,expense,monthly_rent
+2026-04-03,Online Course,5971,Education,expense,online_course
+2026-04-03,Bonus,24085,Income,income,bonus
+2026-04-04,Cab Ride,1152,Transport,expense,cab_ride
+2026-04-04,Food Delivery,5880,Food,expense,food_delivery
+2026-04-04,Gaming Store,749,Entertainment,expense,gaming_store
+2026-04-04,Home Store,9085,Shopping,expense,home_store
+2026-04-04,Home Store,9181,Shopping,expense,home_store
+2026-04-04,Home Store,7615,Shopping,expense,home_store
+2026-04-04,Mobile Recharge,1315,Utilities,expense,mobile_recharge
+2026-04-04,Supermarket,880,Food,expense,supermarket
+2026-04-05,Books,1697,Education,expense,books
+2026-04-05,Certification,4366,Education,expense,certification
+2026-04-05,Certification,3999,Education,expense,certification
+2026-04-05,Home Store,11423,Shopping,expense,home_store
+2026-04-05,Freelance Client,19059,Income,income,freelance_client
+2026-04-05,Freelance Client,9240,Income,income,freelance_client
+2026-04-06,Books,4922,Education,expense,books
+2026-04-06,Certification,3940,Education,expense,certification
+2026-04-06,Diagnostics,4345,Healthcare,expense,diagnostics
+2026-04-06,Gaming Store,1307,Entertainment,expense,gaming_store
+2026-04-06,Grocery Store,3731,Food,expense,grocery_store
+2026-04-06,Home Store,2535,Shopping,expense,home_store
+2026-04-06,Home Store,3615,Shopping,expense,home_store
+2026-04-06,Supermarket,1721,Food,expense,supermarket
+2026-04-06,Supermarket,4303,Food,expense,supermarket
+2026-04-06,Interest Credit,964,Income,income,interest_credit
+2026-04-07,Cab Ride,1548,Transport,expense,cab_ride
+2026-04-07,Food Delivery,3911,Food,expense,food_delivery
+2026-04-07,Gaming Store,1937,Entertainment,expense,gaming_store
+2026-04-07,Home Store,5019,Shopping,expense,home_store
+2026-04-08,Cab Ride,1605,Transport,expense,cab_ride
+2026-04-08,Cab Ride,1394,Transport,expense,cab_ride
+2026-04-08,Certification,1868,Education,expense,certification
+2026-04-08,Clinic Visit,1904,Healthcare,expense,clinic_visit
+2026-04-08,Clinic Visit,2162,Healthcare,expense,clinic_visit
+2026-04-08,Grocery Store,1578,Food,expense,grocery_store
+2026-04-09,Books,1170,Education,expense,books
+2026-04-09,Cab Ride,1539,Transport,expense,cab_ride
+2026-04-09,Cafe,2731,Food,expense,cafe
+2026-04-09,Mobile Recharge,1904,Utilities,expense,mobile_recharge
+2026-04-09,Online Course,5507,Education,expense,online_course
+2026-04-09,Restaurant,3286,Food,expense,restaurant
+2026-04-10,Cab Ride,375,Transport,expense,cab_ride
+2026-04-10,Cafe,3152,Food,expense,cafe
+2026-04-10,Diagnostics,2550,Healthcare,expense,diagnostics
+2026-04-10,Food Delivery,3983,Food,expense,food_delivery
+2026-04-10,Gaming Store,359,Entertainment,expense,gaming_store
+2026-04-10,Home Store,4124,Shopping,expense,home_store
+2026-04-10,Home Store,2845,Shopping,expense,home_store
+2026-04-10,Mobile Recharge,2919,Utilities,expense,mobile_recharge
+2026-04-10,Supermarket,2885,Food,expense,supermarket
+2026-04-10,Interest Credit,1929,Income,income,interest_credit
+2026-04-11,Diagnostics,3221,Healthcare,expense,diagnostics
+2026-04-11,Grocery Store,6562,Food,expense,grocery_store
+2026-04-11,Home Store,1071,Shopping,expense,home_store
+2026-04-11,Bonus,20622,Income,income,bonus
+2026-04-12,Home Store,6511,Shopping,expense,home_store
+2026-04-12,Home Store,10870,Shopping,expense,home_store
+2026-04-12,Mobile Recharge,439,Utilities,expense,mobile_recharge
+2026-04-12,Online Course,1822,Education,expense,online_course
+2026-04-12,Supermarket,4321,Food,expense,supermarket
+2026-04-12,Bonus,6274,Income,income,bonus
+2026-04-12,Freelance Client,14095,Income,income,freelance_client
+2026-04-13,Books,808,Education,expense,books
+2026-04-13,Home Store,3667,Shopping,expense,home_store
+2026-04-13,Restaurant,3274,Food,expense,restaurant
+2026-04-13,Interest Credit,2426,Income,income,interest_credit
+2026-04-14,Cab Ride,752,Transport,expense,cab_ride
+2026-04-14,Food Delivery,3662,Food,expense,food_delivery
+2026-04-14,Food Delivery,3171,Food,expense,food_delivery
+2026-04-14,Home Store,628,Shopping,expense,home_store
+2026-04-14,Home Store,7896,Shopping,expense,home_store
+2026-04-15,Cab Ride,682,Transport,expense,cab_ride
+2026-04-15,Diagnostics,3345,Healthcare,expense,diagnostics
+2026-04-15,Grocery Store,1074,Food,expense,grocery_store
+2026-04-15,Internet Bill,2260,Utilities,expense,internet_bill
+2026-04-15,Mobile Recharge,1800,Utilities,expense,mobile_recharge
+2026-04-15,Pharmacy,3663,Healthcare,expense,pharmacy
+2026-04-16,Clinic Visit,3346,Healthcare,expense,clinic_visit
+2026-04-17,Books,5390,Education,expense,books
+2026-04-17,Cafe,4322,Food,expense,cafe
+2026-04-17,Clinic Visit,3939,Healthcare,expense,clinic_visit
+2026-04-17,Diagnostics,1304,Healthcare,expense,diagnostics
+2026-04-17,Grocery Store,1996,Food,expense,grocery_store
+2026-04-17,Grocery Store,2852,Food,expense,grocery_store
+2026-04-17,Home Store,1878,Shopping,expense,home_store
+2026-04-17,Pharmacy,3852,Healthcare,expense,pharmacy
+2026-04-17,Pharmacy,397,Healthcare,expense,pharmacy
+2026-04-17,Interest Credit,1363,Income,income,interest_credit
+2026-04-18,Gaming Store,1983,Entertainment,expense,gaming_store
+2026-04-18,Pharmacy,1413,Healthcare,expense,pharmacy
+2026-04-19,Diagnostics,3844,Healthcare,expense,diagnostics
+2026-04-19,Electricity Bill,3184,Utilities,expense,electricity_bill
+2026-04-19,Food Delivery,5952,Food,expense,food_delivery
+2026-04-19,Food Delivery,2679,Food,expense,food_delivery
+2026-04-19,Home Store,10775,Shopping,expense,home_store
+2026-04-19,Internet Bill,3476,Utilities,expense,internet_bill
+2026-04-19,Online Course,4239,Education,expense,online_course
+2026-04-19,Pharmacy,661,Healthcare,expense,pharmacy
+2026-04-20,Home Store,5691,Shopping,expense,home_store
+2026-04-20,Supermarket,4762,Food,expense,supermarket
+2026-04-20,Bonus,23198,Income,income,bonus
+2026-04-21,Diagnostics,678,Healthcare,expense,diagnostics
+2026-04-21,Food Delivery,988,Food,expense,food_delivery
+2026-04-21,Gaming Store,209,Entertainment,expense,gaming_store
+2026-04-21,Home Store,7338,Shopping,expense,home_store
+2026-04-21,Internet Bill,2503,Utilities,expense,internet_bill
+2026-04-21,Online Course,3791,Education,expense,online_course
+2026-04-21,Online Course,3759,Education,expense,online_course
+2026-04-21,Restaurant,1724,Food,expense,restaurant
+2026-04-22,Cab Ride,1490,Transport,expense,cab_ride
+2026-04-22,Cab Ride,1601,Transport,expense,cab_ride
+2026-04-22,Clinic Visit,533,Healthcare,expense,clinic_visit
+2026-04-22,Supermarket,1280,Food,expense,supermarket
+2026-04-22,Bonus,12430,Income,income,bonus
+2026-04-22,Interest Credit,578,Income,income,interest_credit
+2026-04-23,Certification,895,Education,expense,certification
+2026-04-23,Certification,4331,Education,expense,certification
+2026-04-23,Electricity Bill,2545,Utilities,expense,electricity_bill
+2026-04-23,Home Store,4330,Shopping,expense,home_store
+2026-04-23,Home Store,1481,Shopping,expense,home_store
+2026-04-23,Freelance Client,21461,Income,income,freelance_client
+2026-04-24,Books,3852,Education,expense,books
+2026-04-24,Grocery Store,3631,Food,expense,grocery_store
+2026-04-24,Restaurant,293,Food,expense,restaurant
+2026-04-24,Interest Credit,2736,Income,income,interest_credit
+2026-04-24,Interest Credit,1410,Income,income,interest_credit
+2026-04-25,Gaming Store,1186,Entertainment,expense,gaming_store
+2026-04-25,Home Store,9856,Shopping,expense,home_store
+2026-04-26,Supermarket,488,Food,expense,supermarket
+2026-04-26,Freelance Client,20753,Income,income,freelance_client
+2026-04-27,Certification,2467,Education,expense,certification
+2026-04-27,Certification,614,Education,expense,certification
+2026-04-27,Gaming Store,205,Entertainment,expense,gaming_store
+2026-04-27,Home Store,5866,Shopping,expense,home_store
+2026-04-27,Supermarket,4274,Food,expense,supermarket
+2026-04-27,Bonus,10575,Income,income,bonus
+2026-04-27,Interest Credit,3172,Income,income,interest_credit
+2026-04-28,Home Store,6048,Shopping,expense,home_store
+2026-04-29,Home Store,1730,Shopping,expense,home_store
+2026-04-29,Home Store,6888,Shopping,expense,home_store
+2026-04-29,Internet Bill,636,Utilities,expense,internet_bill
+2026-04-29,Interest Credit,3349,Income,income,interest_credit
+2026-04-30,Cafe,3069,Food,expense,cafe
+2026-04-30,Home Store,8730,Shopping,expense,home_store
+2026-04-30,Home Store,8378,Shopping,expense,home_store
+2026-05-01,Cab Ride,389,Transport,expense,cab_ride
+2026-05-01,Clinic Visit,4262,Healthcare,expense,clinic_visit
+2026-05-01,Home Store,2487,Shopping,expense,home_store
+2026-05-01,Interest Credit,3423,Income,income,interest_credit
+2026-05-01,Interest Credit,1286,Income,income,interest_credit
+2026-05-01,Salary,83729,Income,income,salary_credit
+2026-05-02,Cab Ride,1366,Transport,expense,cab_ride
+2026-05-02,Certification,5350,Education,expense,certification
+2026-05-02,Gaming Store,986,Entertainment,expense,gaming_store
+2026-05-02,Home Store,11927,Shopping,expense,home_store
+2026-05-02,Interest Credit,3166,Income,income,interest_credit
+2026-05-03,Home Store,11904,Shopping,expense,home_store
+2026-05-03,Monthly Rent,27506,Rent,expense,monthly_rent
+2026-05-03,Online Course,4351,Education,expense,online_course
+2026-05-03,Supermarket,5869,Food,expense,supermarket
+2026-05-04,Cab Ride,1215,Transport,expense,cab_ride
+2026-05-04,Clinic Visit,2176,Healthcare,expense,clinic_visit
+2026-05-04,Grocery Store,2486,Food,expense,grocery_store
+2026-05-04,Home Store,507,Shopping,expense,home_store
+2026-05-04,Mobile Recharge,1321,Utilities,expense,mobile_recharge
+2026-05-04,Online Course,1061,Education,expense,online_course
+2026-05-04,Pharmacy,1574,Healthcare,expense,pharmacy
+2026-05-04,Interest Credit,920,Income,income,interest_credit
+2026-05-05,Cab Ride,2079,Transport,expense,cab_ride
+2026-05-05,Electricity Bill,851,Utilities,expense,electricity_bill
+2026-05-06,Cab Ride,2187,Transport,expense,cab_ride
+2026-05-06,Cab Ride,2289,Transport,expense,cab_ride
+2026-05-06,Grocery Store,3128,Food,expense,grocery_store
+2026-05-06,Home Store,7591,Shopping,expense,home_store
+2026-05-06,Supermarket,4772,Food,expense,supermarket
+2026-05-06,Supermarket,1899,Food,expense,supermarket
+2026-05-06,Interest Credit,1143,Income,income,interest_credit
+2026-05-07,Interest Credit,2410,Income,income,interest_credit
+2026-05-08,Cab Ride,959,Transport,expense,cab_ride
+2026-05-08,Certification,5846,Education,expense,certification
+2026-05-08,Freelance Client,24717,Income,income,freelance_client
+2026-05-08,Interest Credit,1335,Income,income,interest_credit
+2026-05-09,Certification,3689,Education,expense,certification
+2026-05-09,Food Delivery,6212,Food,expense,food_delivery
+2026-05-09,Home Store,8190,Shopping,expense,home_store
+2026-05-09,Home Store,1437,Shopping,expense,home_store
+2026-05-10,Cab Ride,2480,Transport,expense,cab_ride
+2026-05-10,Cab Ride,998,Transport,expense,cab_ride
+2026-05-10,Cab Ride,252,Transport,expense,cab_ride
+2026-05-11,Electricity Bill,2330,Utilities,expense,electricity_bill
+2026-05-11,Mobile Recharge,2981,Utilities,expense,mobile_recharge
+2026-05-11,Restaurant,2451,Food,expense,restaurant
+2026-05-11,Bonus,6759,Income,income,bonus
+2026-05-11,Bonus,17488,Income,income,bonus
+2026-05-11,Interest Credit,1966,Income,income,interest_credit
+2026-05-11,Interest Credit,3349,Income,income,interest_credit
+2026-05-12,Cab Ride,1395,Transport,expense,cab_ride
+2026-05-12,Electricity Bill,2982,Utilities,expense,electricity_bill
+2026-05-12,Bonus,9623,Income,income,bonus
+2026-05-13,Electricity Bill,2283,Utilities,expense,electricity_bill
+2026-05-13,Gaming Store,2117,Entertainment,expense,gaming_store
+2026-05-13,Internet Bill,2005,Utilities,expense,internet_bill
+2026-05-13,Pharmacy,3853,Healthcare,expense,pharmacy
+2026-05-13,Supermarket,507,Food,expense,supermarket
+2026-05-14,Home Store,7150,Shopping,expense,home_store
+2026-05-14,Restaurant,757,Food,expense,restaurant
+2026-05-14,Freelance Client,26501,Income,income,freelance_client
+2026-05-15,Certification,5946,Education,expense,certification
+2026-05-15,Grocery Store,3502,Food,expense,grocery_store
+2026-05-15,Home Store,7973,Shopping,expense,home_store
+2026-05-15,Home Store,6979,Shopping,expense,home_store
+2026-05-15,Supermarket,2545,Food,expense,supermarket
+2026-05-16,Books,4649,Education,expense,books
+2026-05-16,Cafe,3782,Food,expense,cafe
+2026-05-16,Food Delivery,1293,Food,expense,food_delivery
+2026-05-16,Home Store,11070,Shopping,expense,home_store
+2026-05-17,Clinic Visit,2469,Healthcare,expense,clinic_visit
+2026-05-17,Gaming Store,349,Entertainment,expense,gaming_store
+2026-05-17,Home Store,770,Shopping,expense,home_store
+2026-05-17,Interest Credit,3311,Income,income,interest_credit
+2026-05-18,Clinic Visit,1330,Healthcare,expense,clinic_visit
+2026-05-18,Home Store,2833,Shopping,expense,home_store
+2026-05-18,Home Store,5777,Shopping,expense,home_store
+2026-05-18,Bonus,21441,Income,income,bonus
+2026-05-18,Interest Credit,2997,Income,income,interest_credit
+2026-05-19,Cab Ride,362,Transport,expense,cab_ride
+2026-05-19,Grocery Store,2197,Food,expense,grocery_store
+2026-05-19,Home Store,5134,Shopping,expense,home_store
+2026-05-19,Internet Bill,2982,Utilities,expense,internet_bill
+2026-05-20,Cab Ride,1744,Transport,expense,cab_ride
+2026-05-20,Cab Ride,1600,Transport,expense,cab_ride
+2026-05-20,Cab Ride,2014,Transport,expense,cab_ride
+2026-05-20,Home Store,3968,Shopping,expense,home_store
+2026-05-20,Supermarket,2255,Food,expense,supermarket
+2026-05-21,Cab Ride,1855,Transport,expense,cab_ride
+2026-05-21,Clinic Visit,1111,Healthcare,expense,clinic_visit
+2026-05-21,Gaming Store,1317,Entertainment,expense,gaming_store
+2026-05-21,Gaming Store,2013,Entertainment,expense,gaming_store
+2026-05-21,Home Store,7665,Shopping,expense,home_store
+2026-05-22,Books,5633,Education,expense,books
+2026-05-22,Cab Ride,1709,Transport,expense,cab_ride
+2026-05-22,Cafe,2257,Food,expense,cafe
+2026-05-22,Cafe,2477,Food,expense,cafe
+2026-05-22,Gaming Store,671,Entertainment,expense,gaming_store
+2026-05-22,Home Store,6393,Shopping,expense,home_store
+2026-05-22,Home Store,2061,Shopping,expense,home_store
+2026-05-23,Books,3715,Education,expense,books
+2026-05-23,Mobile Recharge,1125,Utilities,expense,mobile_recharge
+2026-05-23,Interest Credit,1259,Income,income,interest_credit
+2026-05-24,Cab Ride,1531,Transport,expense,cab_ride
+2026-05-24,Grocery Store,2853,Food,expense,grocery_store
+2026-05-24,Home Store,3411,Shopping,expense,home_store
+2026-05-24,Mobile Recharge,1512,Utilities,expense,mobile_recharge
+2026-05-25,Gaming Store,549,Entertainment,expense,gaming_store
+2026-05-25,Home Store,3907,Shopping,expense,home_store
+2026-05-25,Pharmacy,2823,Healthcare,expense,pharmacy
+2026-05-25,Bonus,18660,Income,income,bonus
+2026-05-26,Diagnostics,2710,Healthcare,expense,diagnostics
+2026-05-26,Home Store,5281,Shopping,expense,home_store
+2026-05-26,Home Store,3967,Shopping,expense,home_store
+2026-05-26,Mobile Recharge,1035,Utilities,expense,mobile_recharge
+2026-05-26,Supermarket,479,Food,expense,supermarket
+2026-05-27,Cab Ride,577,Transport,expense,cab_ride
+2026-05-27,Interest Credit,1127,Income,income,interest_credit
+2026-05-28,Food Delivery,4913,Food,expense,food_delivery
+2026-05-28,Food Delivery,2243,Food,expense,food_delivery
+2026-05-28,Grocery Store,3599,Food,expense,grocery_store
+2026-05-28,Restaurant,1185,Food,expense,restaurant
+2026-05-28,Freelance Client,20260,Income,income,freelance_client
+2026-05-29,Home Store,6421,Shopping,expense,home_store
+2026-05-29,Home Store,5710,Shopping,expense,home_store
+2026-05-29,Supermarket,1387,Food,expense,supermarket
+2026-05-29,Freelance Client,12594,Income,income,freelance_client
+2026-05-30,Cab Ride,2234,Transport,expense,cab_ride
+2026-05-30,Cafe,2582,Food,expense,cafe
+2026-05-30,Food Delivery,2879,Food,expense,food_delivery
+2026-05-30,Home Store,8846,Shopping,expense,home_store
+2026-05-30,Restaurant,3647,Food,expense,restaurant
+2026-05-30,Freelance Client,13606,Income,income,freelance_client
+2026-05-30,Freelance Client,21849,Income,income,freelance_client
+2026-05-31,Books,5278,Education,expense,books
+2026-05-31,Cab Ride,1201,Transport,expense,cab_ride
+2026-05-31,Cab Ride,1855,Transport,expense,cab_ride
+2026-05-31,Clinic Visit,1767,Healthcare,expense,clinic_visit
+2026-05-31,Gaming Store,2231,Entertainment,expense,gaming_store
+2026-05-31,Grocery Store,2728,Food,expense,grocery_store
+2026-05-31,Online Course,3087,Education,expense,online_course
+2026-05-31,Online Course,5201,Education,expense,online_course
+2026-06-01,Restaurant,4949,Food,expense,restaurant
+2026-06-01,Bonus,24910,Income,income,bonus
+2026-06-01,Freelance Client,14814,Income,income,freelance_client
+2026-06-01,Salary,87301,Income,income,salary_credit
+2026-06-02,Books,2242,Education,expense,books
+2026-06-02,Cab Ride,788,Transport,expense,cab_ride
+2026-06-02,Cafe,3362,Food,expense,cafe
+2026-06-02,Cafe,4074,Food,expense,cafe
+2026-06-02,Certification,2549,Education,expense,certification
+2026-06-02,Clinic Visit,976,Healthcare,expense,clinic_visit
+2026-06-02,Grocery Store,2970,Food,expense,grocery_store
+2026-06-02,Home Store,5976,Shopping,expense,home_store
+2026-06-02,Home Store,1592,Shopping,expense,home_store
+2026-06-02,Pharmacy,1898,Healthcare,expense,pharmacy
+2026-06-02,Bonus,11374,Income,income,bonus
+2026-06-02,Interest Credit,444,Income,income,interest_credit
+2026-06-03,Grocery Store,3427,Food,expense,grocery_store
+2026-06-03,Grocery Store,671,Food,expense,grocery_store
+2026-06-03,Home Store,2782,Shopping,expense,home_store
+2026-06-03,Monthly Rent,24577,Rent,expense,monthly_rent
+2026-06-03,Bonus,11868,Income,income,bonus
+2026-06-04,Cafe,4244,Food,expense,cafe
+2026-06-04,Food Delivery,4910,Food,expense,food_delivery
+2026-06-04,Pharmacy,3757,Healthcare,expense,pharmacy
+2026-06-04,Freelance Client,25515,Income,income,freelance_client
+2026-06-04,Interest Credit,1198,Income,income,interest_credit
+2026-06-05,Internet Bill,1361,Utilities,expense,internet_bill
+2026-06-05,Online Course,1733,Education,expense,online_course
+2026-06-05,Bonus,11386,Income,income,bonus
+2026-06-05,Interest Credit,1753,Income,income,interest_credit
+2026-06-06,Books,3554,Education,expense,books
+2026-06-06,Cab Ride,1200,Transport,expense,cab_ride
+2026-06-06,Gaming Store,1767,Entertainment,expense,gaming_store
+2026-06-06,Home Store,3067,Shopping,expense,home_store
+2026-06-06,Supermarket,4649,Food,expense,supermarket
+2026-06-07,Cab Ride,1009,Transport,expense,cab_ride
+2026-06-07,Cab Ride,685,Transport,expense,cab_ride
+2026-06-07,Electricity Bill,1668,Utilities,expense,electricity_bill
+2026-06-07,Food Delivery,3767,Food,expense,food_delivery
+2026-06-07,Home Store,7456,Shopping,expense,home_store
+2026-06-07,Internet Bill,2037,Utilities,expense,internet_bill
+2026-06-08,Cab Ride,472,Transport,expense,cab_ride
+2026-06-08,Food Delivery,668,Food,expense,food_delivery
+2026-06-08,Home Store,3240,Shopping,expense,home_store
+2026-06-08,Home Store,4005,Shopping,expense,home_store
+2026-06-08,Mobile Recharge,2676,Utilities,expense,mobile_recharge
+2026-06-08,Restaurant,1563,Food,expense,restaurant
+2026-06-09,Cab Ride,482,Transport,expense,cab_ride
+2026-06-09,Certification,3738,Education,expense,certification
+2026-06-09,Supermarket,4829,Food,expense,supermarket
+2026-06-09,Supermarket,433,Food,expense,supermarket
+2026-06-10,Books,4449,Education,expense,books
+2026-06-10,Books,4792,Education,expense,books
+2026-06-10,Cab Ride,2232,Transport,expense,cab_ride
+2026-06-10,Cab Ride,2454,Transport,expense,cab_ride
+2026-06-10,Home Store,5654,Shopping,expense,home_store
+2026-06-10,Bonus,11578,Income,income,bonus
+2026-06-10,Bonus,13620,Income,income,bonus
+2026-06-11,Bonus,21969,Income,income,bonus
+2026-06-12,Cab Ride,1628,Transport,expense,cab_ride
+2026-06-12,Home Store,4191,Shopping,expense,home_store
+2026-06-12,Restaurant,2068,Food,expense,restaurant
+2026-06-12,Freelance Client,9331,Income,income,freelance_client
+2026-06-13,Cab Ride,1077,Transport,expense,cab_ride
+2026-06-13,Cafe,1987,Food,expense,cafe
+2026-06-13,Clinic Visit,994,Healthcare,expense,clinic_visit
+2026-06-13,Home Store,7364,Shopping,expense,home_store
+2026-06-13,Home Store,3578,Shopping,expense,home_store
+2026-06-13,Internet Bill,853,Utilities,expense,internet_bill
+2026-06-13,Supermarket,865,Food,expense,supermarket
+2026-06-13,Interest Credit,3219,Income,income,interest_credit
+2026-06-14,Cab Ride,927,Transport,expense,cab_ride
+2026-06-14,Cab Ride,346,Transport,expense,cab_ride
+2026-06-14,Grocery Store,2004,Food,expense,grocery_store
+2026-06-14,Grocery Store,3599,Food,expense,grocery_store
+2026-06-14,Pharmacy,4251,Healthcare,expense,pharmacy
+2026-06-14,Bonus,20637,Income,income,bonus
+2026-06-14,Bonus,21405,Income,income,bonus
+2026-06-14,Freelance Client,26015,Income,income,freelance_client
+2026-06-14,Interest Credit,2411,Income,income,interest_credit
+2026-06-15,Clinic Visit,2276,Healthcare,expense,clinic_visit
+2026-06-16,Clinic Visit,972,Healthcare,expense,clinic_visit
+2026-06-16,Home Store,7740,Shopping,expense,home_store
+2026-06-16,Pharmacy,3644,Healthcare,expense,pharmacy
+2026-06-16,Interest Credit,1325,Income,income,interest_credit
+2026-06-16,Interest Credit,343,Income,income,interest_credit
+2026-06-17,Books,3258,Education,expense,books
+2026-06-17,Mobile Recharge,1280,Utilities,expense,mobile_recharge
+2026-06-17,Freelance Client,17682,Income,income,freelance_client
+2026-06-18,Cafe,1237,Food,expense,cafe
+2026-06-18,Cafe,2852,Food,expense,cafe
+2026-06-18,Food Delivery,924,Food,expense,food_delivery
+2026-06-18,Home Store,4616,Shopping,expense,home_store
+2026-06-18,Home Store,8976,Shopping,expense,home_store
+2026-06-18,Mobile Recharge,2236,Utilities,expense,mobile_recharge
+2026-06-18,Pharmacy,2006,Healthcare,expense,pharmacy
+2026-06-18,Supermarket,4642,Food,expense,supermarket
+2026-06-19,Cab Ride,198,Transport,expense,cab_ride
+2026-06-19,Cab Ride,1297,Transport,expense,cab_ride
+2026-06-19,Electricity Bill,2579,Utilities,expense,electricity_bill
+2026-06-19,Gaming Store,1207,Entertainment,expense,gaming_store
+2026-06-19,Home Store,945,Shopping,expense,home_store
+2026-06-19,Freelance Client,16382,Income,income,freelance_client
+2026-06-20,Books,1584,Education,expense,books
+2026-06-20,Cab Ride,1142,Transport,expense,cab_ride
+2026-06-20,Home Store,12121,Shopping,expense,home_store
+2026-06-20,Restaurant,4078,Food,expense,restaurant
+2026-06-20,Supermarket,3032,Food,expense,supermarket
+2026-06-20,Supermarket,1962,Food,expense,supermarket
+2026-06-20,Bonus,9175,Income,income,bonus
+2026-06-21,Cab Ride,942,Transport,expense,cab_ride
+2026-06-21,Cab Ride,892,Transport,expense,cab_ride
+2026-06-21,Certification,1529,Education,expense,certification
+2026-06-21,Electricity Bill,2559,Utilities,expense,electricity_bill
+2026-06-21,Online Course,3917,Education,expense,online_course
+2026-06-21,Restaurant,3250,Food,expense,restaurant
+2026-06-21,Bonus,21720,Income,income,bonus
+2026-06-21,Interest Credit,2557,Income,income,interest_credit
+2026-06-22,Cab Ride,240,Transport,expense,cab_ride
+2026-06-22,Grocery Store,2164,Food,expense,grocery_store
+2026-06-23,Cab Ride,1252,Transport,expense,cab_ride
+2026-06-23,Diagnostics,1451,Healthcare,expense,diagnostics
+2026-06-23,Gaming Store,1715,Entertainment,expense,gaming_store
+2026-06-23,Grocery Store,3562,Food,expense,grocery_store
+2026-06-23,Restaurant,1029,Food,expense,restaurant
+2026-06-24,Restaurant,967,Food,expense,restaurant
+2026-06-25,Cab Ride,1702,Transport,expense,cab_ride
+2026-06-25,Grocery Store,2549,Food,expense,grocery_store
+2026-06-25,Restaurant,368,Food,expense,restaurant
+2026-06-25,Restaurant,3783,Food,expense,restaurant
+2026-06-25,Bonus,8204,Income,income,bonus
+2026-06-26,Cab Ride,2452,Transport,expense,cab_ride
+2026-06-26,Cab Ride,705,Transport,expense,cab_ride
+2026-06-26,Electricity Bill,3068,Utilities,expense,electricity_bill
+2026-06-26,Home Store,5017,Shopping,expense,home_store
+2026-06-26,Mobile Recharge,1328,Utilities,expense,mobile_recharge
+2026-06-26,Bonus,13636,Income,income,bonus
+2026-06-26,Freelance Client,9749,Income,income,freelance_client
+2026-06-27,Food Delivery,6061,Food,expense,food_delivery
+2026-06-27,Gaming Store,2471,Entertainment,expense,gaming_store
+2026-06-27,Gaming Store,1040,Entertainment,expense,gaming_store
+2026-06-27,Grocery Store,363,Food,expense,grocery_store
+2026-06-27,Home Store,6481,Shopping,expense,home_store
+2026-06-27,Home Store,2269,Shopping,expense,home_store
+2026-06-27,Restaurant,4225,Food,expense,restaurant
+2026-06-27,Supermarket,2614,Food,expense,supermarket
+2026-06-28,Cab Ride,1719,Transport,expense,cab_ride
+2026-06-28,Cafe,5224,Food,expense,cafe
+2026-06-28,Cafe,915,Food,expense,cafe
+2026-06-28,Food Delivery,3010,Food,expense,food_delivery
+2026-06-28,Gaming Store,2328,Entertainment,expense,gaming_store
+2026-06-28,Grocery Store,4969,Food,expense,grocery_store
+2026-06-28,Internet Bill,1290,Utilities,expense,internet_bill
+2026-06-28,Supermarket,6589,Food,expense,supermarket
+2026-06-29,Cafe,2972,Food,expense,cafe
+2026-06-29,Gaming Store,215,Entertainment,expense,gaming_store
+2026-06-29,Mobile Recharge,2933,Utilities,expense,mobile_recharge
+2026-06-29,Restaurant,1382,Food,expense,restaurant
+2026-06-29,Interest Credit,366,Income,income,interest_credit
+2026-06-30,Mobile Recharge,2418,Utilities,expense,mobile_recharge
+2026-06-30,Bonus,15262,Income,income,bonus
+2026-06-30,Freelance Client,15595,Income,income,freelance_client
+2026-07-01,Cab Ride,1208,Transport,expense,cab_ride
+2026-07-01,Cab Ride,299,Transport,expense,cab_ride
+2026-07-01,Diagnostics,1267,Healthcare,expense,diagnostics
+2026-07-01,Home Store,8890,Shopping,expense,home_store
+2026-07-01,Home Store,3710,Shopping,expense,home_store
+2026-07-01,Internet Bill,3244,Utilities,expense,internet_bill
+2026-07-01,Salary,86245,Income,income,salary_credit
+2026-07-02,Food Delivery,1458,Food,expense,food_delivery
+2026-07-02,Grocery Store,2081,Food,expense,grocery_store
+2026-07-02,Internet Bill,3378,Utilities,expense,internet_bill
+2026-07-02,Restaurant,361,Food,expense,restaurant
+2026-07-02,Bonus,24085,Income,income,bonus
+2026-07-03,Cafe,1390,Food,expense,cafe
+2026-07-03,Monthly Rent,27043,Rent,expense,monthly_rent
+2026-07-03,Freelance Client,18894,Income,income,freelance_client
+2026-07-04,Cafe,2891,Food,expense,cafe
+2026-07-04,Internet Bill,1198,Utilities,expense,internet_bill
+2026-07-05,Cab Ride,844,Transport,expense,cab_ride
+2026-07-05,Clinic Visit,4101,Healthcare,expense,clinic_visit
+2026-07-05,Electricity Bill,1631,Utilities,expense,electricity_bill
+2026-07-05,Food Delivery,4668,Food,expense,food_delivery
+2026-07-05,Gaming Store,2928,Entertainment,expense,gaming_store
+2026-07-06,Cab Ride,1299,Transport,expense,cab_ride
+2026-07-06,Gaming Store,2107,Entertainment,expense,gaming_store
+2026-07-06,Grocery Store,3467,Food,expense,grocery_store
+2026-07-06,Home Store,8399,Shopping,expense,home_store
+2026-07-06,Home Store,7954,Shopping,expense,home_store
+2026-07-07,Cab Ride,1438,Transport,expense,cab_ride
+2026-07-07,Electricity Bill,2766,Utilities,expense,electricity_bill
+2026-07-07,Electricity Bill,1025,Utilities,expense,electricity_bill
+2026-07-07,Home Store,3042,Shopping,expense,home_store
+2026-07-08,Certification,2929,Education,expense,certification
+2026-07-08,Diagnostics,2249,Healthcare,expense,diagnostics
+2026-07-08,Restaurant,2278,Food,expense,restaurant
+2026-07-09,Cafe,3361,Food,expense,cafe
+2026-07-09,Cafe,2706,Food,expense,cafe
+2026-07-09,Clinic Visit,4131,Healthcare,expense,clinic_visit
+2026-07-09,Diagnostics,2579,Healthcare,expense,diagnostics
+2026-07-09,Gaming Store,1137,Entertainment,expense,gaming_store
+2026-07-09,Gaming Store,2095,Entertainment,expense,gaming_store
+2026-07-09,Gaming Store,1115,Entertainment,expense,gaming_store
+2026-07-09,Home Store,8428,Shopping,expense,home_store
+2026-07-09,Home Store,8626,Shopping,expense,home_store
+2026-07-09,Pharmacy,2589,Healthcare,expense,pharmacy
+2026-07-10,Cab Ride,1587,Transport,expense,cab_ride
+2026-07-10,Cab Ride,1887,Transport,expense,cab_ride
+2026-07-10,Grocery Store,1170,Food,expense,grocery_store
+2026-07-11,Books,5277,Education,expense,books
+2026-07-11,Cab Ride,227,Transport,expense,cab_ride
+2026-07-11,Cafe,1998,Food,expense,cafe
+2026-07-11,Diagnostics,615,Healthcare,expense,diagnostics
+2026-07-11,Gaming Store,849,Entertainment,expense,gaming_store
+2026-07-11,Grocery Store,6223,Food,expense,grocery_store
+2026-07-11,Supermarket,6264,Food,expense,supermarket
+2026-07-12,Cab Ride,1696,Transport,expense,cab_ride
+2026-07-13,Cab Ride,2386,Transport,expense,cab_ride
+2026-07-13,Cab Ride,987,Transport,expense,cab_ride
+2026-07-13,Cab Ride,901,Transport,expense,cab_ride
+2026-07-13,Grocery Store,4918,Food,expense,grocery_store
+2026-07-13,Grocery Store,726,Food,expense,grocery_store
+2026-07-13,Home Store,2909,Shopping,expense,home_store
+2026-07-13,Mobile Recharge,3167,Utilities,expense,mobile_recharge
+2026-07-13,Interest Credit,2169,Income,income,interest_credit
+2026-07-14,Books,3514,Education,expense,books
+2026-07-14,Cab Ride,2117,Transport,expense,cab_ride
+2026-07-14,Home Store,810,Shopping,expense,home_store
+2026-07-15,Clinic Visit,2534,Healthcare,expense,clinic_visit
+2026-07-15,Food Delivery,4459,Food,expense,food_delivery
+2026-07-15,Gaming Store,475,Entertainment,expense,gaming_store
+2026-07-15,Grocery Store,2356,Food,expense,grocery_store
+2026-07-16,Cab Ride,1758,Transport,expense,cab_ride
+2026-07-16,Cab Ride,2156,Transport,expense,cab_ride
+2026-07-16,Cab Ride,2486,Transport,expense,cab_ride
+2026-07-16,Grocery Store,1464,Food,expense,grocery_store
+2026-07-16,Home Store,3379,Shopping,expense,home_store
+2026-07-16,Mobile Recharge,1278,Utilities,expense,mobile_recharge
+2026-07-16,Mobile Recharge,880,Utilities,expense,mobile_recharge
+2026-07-17,Cab Ride,1704,Transport,expense,cab_ride
+2026-07-17,Food Delivery,3817,Food,expense,food_delivery
+2026-07-17,Mobile Recharge,3073,Utilities,expense,mobile_recharge
+2026-07-18,Cab Ride,677,Transport,expense,cab_ride
+2026-07-18,Electricity Bill,902,Utilities,expense,electricity_bill
+2026-07-18,Mobile Recharge,2701,Utilities,expense,mobile_recharge
+2026-07-18,Restaurant,3129,Food,expense,restaurant
+2026-07-18,Bonus,17031,Income,income,bonus
+2026-07-18,Freelance Client,26102,Income,income,freelance_client
+2026-07-18,Interest Credit,593,Income,income,interest_credit
+2026-07-19,Electricity Bill,2745,Utilities,expense,electricity_bill
+2026-07-19,Gaming Store,1486,Entertainment,expense,gaming_store
+2026-07-19,Grocery Store,1240,Food,expense,grocery_store
+2026-07-19,Home Store,7169,Shopping,expense,home_store
+2026-07-19,Mobile Recharge,433,Utilities,expense,mobile_recharge
+2026-07-19,Pharmacy,1857,Healthcare,expense,pharmacy
+2026-07-19,Supermarket,4685,Food,expense,supermarket
+2026-07-19,Supermarket,935,Food,expense,supermarket
+2026-07-19,Bonus,11276,Income,income,bonus
+2026-07-20,Cab Ride,1989,Transport,expense,cab_ride
+2026-07-20,Cafe,437,Food,expense,cafe
+2026-07-20,Clinic Visit,4173,Healthcare,expense,clinic_visit
+2026-07-20,Gaming Store,1971,Entertainment,expense,gaming_store
+2026-07-20,Home Store,6307,Shopping,expense,home_store
+2026-07-20,Home Store,4315,Shopping,expense,home_store
+2026-07-20,Internet Bill,1252,Utilities,expense,internet_bill
+2026-07-20,Supermarket,3367,Food,expense,supermarket
+2026-07-20,Supermarket,3890,Food,expense,supermarket
+2026-07-20,Interest Credit,2343,Income,income,interest_credit
+2026-07-21,Cab Ride,1136,Transport,expense,cab_ride
+2026-07-21,Electricity Bill,1721,Utilities,expense,electricity_bill
+2026-07-21,Supermarket,1134,Food,expense,supermarket
+2026-07-21,Supermarket,3611,Food,expense,supermarket
+2026-07-22,Home Store,2419,Shopping,expense,home_store
+2026-07-22,Home Store,2468,Shopping,expense,home_store
+2026-07-22,Online Course,589,Education,expense,online_course
+2026-07-22,Restaurant,281,Food,expense,restaurant
+2026-07-22,Supermarket,3067,Food,expense,supermarket
+2026-07-22,Freelance Client,13628,Income,income,freelance_client
+2026-07-23,Cab Ride,618,Transport,expense,cab_ride
+2026-07-23,Cab Ride,1040,Transport,expense,cab_ride
+2026-07-23,Clinic Visit,885,Healthcare,expense,clinic_visit
+2026-07-23,Home Store,4978,Shopping,expense,home_store
+2026-07-23,Home Store,3236,Shopping,expense,home_store
+2026-07-23,Mobile Recharge,3313,Utilities,expense,mobile_recharge
+2026-07-23,Freelance Client,14920,Income,income,freelance_client
+2026-07-23,Interest Credit,2510,Income,income,interest_credit
+2026-07-24,Cab Ride,2183,Transport,expense,cab_ride
+2026-07-24,Food Delivery,1729,Food,expense,food_delivery
+2026-07-24,Mobile Recharge,904,Utilities,expense,mobile_recharge
+2026-07-24,Interest Credit,2067,Income,income,interest_credit
+2026-07-25,Cab Ride,2113,Transport,expense,cab_ride
+2026-07-25,Cab Ride,218,Transport,expense,cab_ride
+2026-07-25,Internet Bill,2141,Utilities,expense,internet_bill
+2026-07-26,Cab Ride,1700,Transport,expense,cab_ride
+2026-07-26,Electricity Bill,918,Utilities,expense,electricity_bill
+2026-07-26,Food Delivery,4379,Food,expense,food_delivery
+2026-07-26,Home Store,7663,Shopping,expense,home_store
+2026-07-26,Bonus,10066,Income,income,bonus
+2026-07-26,Interest Credit,2467,Income,income,interest_credit
+2026-07-27,Cafe,3495,Food,expense,cafe
+2026-07-27,Diagnostics,3350,Healthcare,expense,diagnostics
+2026-07-27,Food Delivery,3375,Food,expense,food_delivery
+2026-07-27,Food Delivery,3357,Food,expense,food_delivery
+2026-07-27,Gaming Store,1463,Entertainment,expense,gaming_store
+2026-07-27,Gaming Store,889,Entertainment,expense,gaming_store
+2026-07-27,Home Store,1521,Shopping,expense,home_store
+2026-07-27,Internet Bill,486,Utilities,expense,internet_bill
+2026-07-27,Pharmacy,900,Healthcare,expense,pharmacy
+2026-07-27,Freelance Client,27032,Income,income,freelance_client
+2026-07-28,Cab Ride,1571,Transport,expense,cab_ride
+2026-07-28,Cab Ride,1542,Transport,expense,cab_ride
+2026-07-28,Electricity Bill,1425,Utilities,expense,electricity_bill
+2026-07-28,Home Store,872,Shopping,expense,home_store
+2026-07-28,Supermarket,3588,Food,expense,supermarket
+2026-07-29,Cab Ride,1499,Transport,expense,cab_ride
+2026-07-29,Food Delivery,4889,Food,expense,food_delivery
+2026-07-29,Home Store,7850,Shopping,expense,home_store
+2026-07-29,Home Store,3271,Shopping,expense,home_store
+2026-07-29,Internet Bill,3466,Utilities,expense,internet_bill
+2026-07-29,Mobile Recharge,3488,Utilities,expense,mobile_recharge
+2026-07-30,Cafe,2016,Food,expense,cafe
+2026-07-30,Diagnostics,4233,Healthcare,expense,diagnostics
+2026-07-30,Grocery Store,1287,Food,expense,grocery_store
+2026-07-30,Home Store,6353,Shopping,expense,home_store
+2026-07-30,Home Store,8753,Shopping,expense,home_store
+2026-07-31,Books,4662,Education,expense,books
+2026-07-31,Clinic Visit,3308,Healthcare,expense,clinic_visit
+2026-07-31,Internet Bill,3069,Utilities,expense,internet_bill
+2026-08-01,Cab Ride,1589,Transport,expense,cab_ride
+2026-08-01,Diagnostics,1970,Healthcare,expense,diagnostics
+2026-08-01,Home Store,5952,Shopping,expense,home_store
+2026-08-01,Home Store,3743,Shopping,expense,home_store
+2026-08-01,Supermarket,1424,Food,expense,supermarket
+2026-08-01,Salary,86179,Income,income,salary_credit
+2026-08-02,Cafe,4376,Food,expense,cafe
+2026-08-02,Internet Bill,914,Utilities,expense,internet_bill
+2026-08-02,Freelance Client,16631,Income,income,freelance_client
+2026-08-03,Cafe,3067,Food,expense,cafe
+2026-08-03,Electricity Bill,3119,Utilities,expense,electricity_bill
+2026-08-03,Home Store,8183,Shopping,expense,home_store
+2026-08-03,Home Store,3798,Shopping,expense,home_store
+2026-08-03,Monthly Rent,24755,Rent,expense,monthly_rent
+2026-08-03,Pharmacy,873,Healthcare,expense,pharmacy
+2026-08-04,Certification,3264,Education,expense,certification
+2026-08-04,Food Delivery,4033,Food,expense,food_delivery
+2026-08-04,Internet Bill,3162,Utilities,expense,internet_bill
+2026-08-04,Restaurant,3911,Food,expense,restaurant
+2026-08-04,Bonus,23242,Income,income,bonus
+2026-08-05,Cab Ride,2400,Transport,expense,cab_ride
+2026-08-05,Cab Ride,1853,Transport,expense,cab_ride
+2026-08-05,Grocery Store,3949,Food,expense,grocery_store
+2026-08-05,Mobile Recharge,1792,Utilities,expense,mobile_recharge
+2026-08-05,Interest Credit,983,Income,income,interest_credit
+2026-08-06,Home Store,8652,Shopping,expense,home_store
+2026-08-07,Electricity Bill,974,Utilities,expense,electricity_bill
+2026-08-07,Electricity Bill,2737,Utilities,expense,electricity_bill
+2026-08-07,Home Store,761,Shopping,expense,home_store
+2026-08-07,Mobile Recharge,1709,Utilities,expense,mobile_recharge
+2026-08-07,Restaurant,3708,Food,expense,restaurant
+2026-08-07,Supermarket,3903,Food,expense,supermarket
+2026-08-08,Cab Ride,1223,Transport,expense,cab_ride
+2026-08-08,Diagnostics,1010,Healthcare,expense,diagnostics
+2026-08-08,Home Store,1260,Shopping,expense,home_store
+2026-08-08,Pharmacy,971,Healthcare,expense,pharmacy
+2026-08-08,Interest Credit,3320,Income,income,interest_credit
+2026-08-09,Certification,1730,Education,expense,certification
+2026-08-09,Grocery Store,6435,Food,expense,grocery_store
+2026-08-09,Home Store,8910,Shopping,expense,home_store
+2026-08-09,Online Course,4806,Education,expense,online_course
+2026-08-09,Restaurant,2162,Food,expense,restaurant
+2026-08-10,Cafe,2611,Food,expense,cafe
+2026-08-10,Grocery Store,4591,Food,expense,grocery_store
+2026-08-10,Grocery Store,4224,Food,expense,grocery_store
+2026-08-10,Home Store,4771,Shopping,expense,home_store
+2026-08-10,Pharmacy,3562,Healthcare,expense,pharmacy
+2026-08-11,Cab Ride,545,Transport,expense,cab_ride
+2026-08-11,Cafe,2543,Food,expense,cafe
+2026-08-11,Diagnostics,2094,Healthcare,expense,diagnostics
+2026-08-11,Grocery Store,699,Food,expense,grocery_store
+2026-08-11,Mobile Recharge,2217,Utilities,expense,mobile_recharge
+2026-08-11,Bonus,24398,Income,income,bonus
+2026-08-11,Interest Credit,2181,Income,income,interest_credit
+2026-08-12,Restaurant,4808,Food,expense,restaurant
+2026-08-12,Restaurant,4390,Food,expense,restaurant
+2026-08-13,Food Delivery,3376,Food,expense,food_delivery
+2026-08-13,Grocery Store,4159,Food,expense,grocery_store
+2026-08-13,Home Store,3915,Shopping,expense,home_store
+2026-08-13,Interest Credit,3327,Income,income,interest_credit
+2026-08-14,Home Store,3058,Shopping,expense,home_store
+2026-08-14,Bonus,16113,Income,income,bonus
+2026-08-15,Food Delivery,2790,Food,expense,food_delivery
+2026-08-15,Home Store,5246,Shopping,expense,home_store
+2026-08-15,Bonus,20699,Income,income,bonus
+2026-08-16,Cab Ride,460,Transport,expense,cab_ride
+2026-08-16,Cab Ride,1806,Transport,expense,cab_ride
+2026-08-16,Cab Ride,2337,Transport,expense,cab_ride
+2026-08-16,Cab Ride,1969,Transport,expense,cab_ride
+2026-08-16,Gaming Store,1551,Entertainment,expense,gaming_store
+2026-08-16,Home Store,1042,Shopping,expense,home_store
+2026-08-16,Bonus,17653,Income,income,bonus
+2026-08-16,Freelance Client,10456,Income,income,freelance_client
+2026-08-16,Interest Credit,3316,Income,income,interest_credit
+2026-08-16,Interest Credit,1911,Income,income,interest_credit
+2026-08-17,Mobile Recharge,2677,Utilities,expense,mobile_recharge
+2026-08-18,Cab Ride,1477,Transport,expense,cab_ride
+2026-08-18,Cafe,3852,Food,expense,cafe
+2026-08-18,Home Store,7316,Shopping,expense,home_store
+2026-08-19,Cab Ride,2105,Transport,expense,cab_ride
+2026-08-19,Electricity Bill,1043,Utilities,expense,electricity_bill
+2026-08-19,Home Store,5604,Shopping,expense,home_store
+2026-08-19,Home Store,1690,Shopping,expense,home_store
+2026-08-19,Home Store,4233,Shopping,expense,home_store
+2026-08-19,Interest Credit,1623,Income,income,interest_credit
+2026-08-20,Certification,874,Education,expense,certification
+2026-08-20,Gaming Store,1085,Entertainment,expense,gaming_store
+2026-08-20,Home Store,4439,Shopping,expense,home_store
+2026-08-20,Home Store,2510,Shopping,expense,home_store
+2026-08-20,Home Store,8057,Shopping,expense,home_store
+2026-08-20,Supermarket,3238,Food,expense,supermarket
+2026-08-20,Freelance Client,26596,Income,income,freelance_client
+2026-08-21,Cab Ride,2486,Transport,expense,cab_ride
+2026-08-21,Food Delivery,4827,Food,expense,food_delivery
+2026-08-21,Gaming Store,721,Entertainment,expense,gaming_store
+2026-08-21,Home Store,8814,Shopping,expense,home_store
+2026-08-21,Interest Credit,536,Income,income,interest_credit
+2026-08-22,Cab Ride,2250,Transport,expense,cab_ride
+2026-08-22,Cafe,3393,Food,expense,cafe
+2026-08-22,Gaming Store,1842,Entertainment,expense,gaming_store
+2026-08-22,Home Store,8629,Shopping,expense,home_store
+2026-08-22,Pharmacy,414,Healthcare,expense,pharmacy
+2026-08-22,Supermarket,4527,Food,expense,supermarket
+2026-08-22,Interest Credit,2099,Income,income,interest_credit
+2026-08-22,Interest Credit,1605,Income,income,interest_credit
+2026-08-23,Cab Ride,2425,Transport,expense,cab_ride
+2026-08-23,Cafe,4284,Food,expense,cafe
+2026-08-23,Cafe,3291,Food,expense,cafe
+2026-08-23,Certification,3793,Education,expense,certification
+2026-08-23,Gaming Store,506,Entertainment,expense,gaming_store
+2026-08-23,Grocery Store,2432,Food,expense,grocery_store
+2026-08-23,Mobile Recharge,2245,Utilities,expense,mobile_recharge
+2026-08-23,Interest Credit,2636,Income,income,interest_credit
+2026-08-23,Interest Credit,2889,Income,income,interest_credit
+2026-08-24,Certification,1740,Education,expense,certification
+2026-08-24,Food Delivery,1325,Food,expense,food_delivery
+2026-08-24,Supermarket,3826,Food,expense,supermarket
+2026-08-25,Cab Ride,2200,Transport,expense,cab_ride
+2026-08-25,Cab Ride,1215,Transport,expense,cab_ride
+2026-08-25,Grocery Store,4505,Food,expense,grocery_store
+2026-08-25,Home Store,3333,Shopping,expense,home_store
+2026-08-25,Home Store,7360,Shopping,expense,home_store
+2026-08-25,Online Course,3733,Education,expense,online_course
+2026-08-26,Cab Ride,1268,Transport,expense,cab_ride
+2026-08-26,Cafe,377,Food,expense,cafe
+2026-08-26,Clinic Visit,2715,Healthcare,expense,clinic_visit
+2026-08-26,Gaming Store,767,Entertainment,expense,gaming_store
+2026-08-26,Home Store,5060,Shopping,expense,home_store
+2026-08-26,Internet Bill,1961,Utilities,expense,internet_bill
+2026-08-26,Internet Bill,3346,Utilities,expense,internet_bill
+2026-08-27,Cab Ride,2324,Transport,expense,cab_ride
+2026-08-27,Cab Ride,1667,Transport,expense,cab_ride
+2026-08-27,Cab Ride,1247,Transport,expense,cab_ride
+2026-08-27,Gaming Store,2049,Entertainment,expense,gaming_store
+2026-08-27,Home Store,7202,Shopping,expense,home_store
+2026-08-27,Home Store,531,Shopping,expense,home_store
+2026-08-27,Home Store,4255,Shopping,expense,home_store
+2026-08-27,Mobile Recharge,1960,Utilities,expense,mobile_recharge
+2026-08-28,Cab Ride,1566,Transport,expense,cab_ride
+2026-08-28,Internet Bill,1924,Utilities,expense,internet_bill
+2026-08-28,Online Course,1185,Education,expense,online_course
+2026-08-28,Bonus,18358,Income,income,bonus
+2026-08-29,Electricity Bill,1256,Utilities,expense,electricity_bill
+2026-08-29,Gaming Store,1972,Entertainment,expense,gaming_store
+2026-08-29,Restaurant,2967,Food,expense,restaurant
+2026-08-29,Bonus,17562,Income,income,bonus
+2026-08-30,Food Delivery,4008,Food,expense,food_delivery
+2026-08-30,Home Store,9792,Shopping,expense,home_store
+2026-08-30,Supermarket,5428,Food,expense,supermarket
+2026-08-31,Internet Bill,1781,Utilities,expense,internet_bill
+2026-08-31,Mobile Recharge,1820,Utilities,expense,mobile_recharge
+2026-08-31,Bonus,18828,Income,income,bonus
+2026-08-31,Freelance Client,22382,Income,income,freelance_client
+2026-09-01,Cab Ride,1249,Transport,expense,cab_ride
+2026-09-01,Cab Ride,190,Transport,expense,cab_ride
+2026-09-01,Cab Ride,2003,Transport,expense,cab_ride
+2026-09-01,Diagnostics,2653,Healthcare,expense,diagnostics
+2026-09-01,Electricity Bill,1213,Utilities,expense,electricity_bill
+2026-09-01,Home Store,2679,Shopping,expense,home_store
+2026-09-01,Home Store,3258,Shopping,expense,home_store
+2026-09-01,Online Course,4637,Education,expense,online_course
+2026-09-01,Bonus,14336,Income,income,bonus
+2026-09-01,Salary,79365,Income,income,salary_credit
+2026-09-02,Books,2411,Education,expense,books
+2026-09-02,Cafe,3895,Food,expense,cafe
+2026-09-02,Grocery Store,653,Food,expense,grocery_store
+2026-09-03,Home Store,4901,Shopping,expense,home_store
+2026-09-03,Home Store,7833,Shopping,expense,home_store
+2026-09-03,Monthly Rent,24425,Rent,expense,monthly_rent
+2026-09-03,Interest Credit,2442,Income,income,interest_credit
+2026-09-04,Food Delivery,1629,Food,expense,food_delivery
+2026-09-04,Grocery Store,3816,Food,expense,grocery_store
+2026-09-04,Freelance Client,26957,Income,income,freelance_client
+2026-09-04,Freelance Client,23817,Income,income,freelance_client
+2026-09-05,Cab Ride,1223,Transport,expense,cab_ride
+2026-09-05,Cafe,1150,Food,expense,cafe
+2026-09-05,Gaming Store,436,Entertainment,expense,gaming_store
+2026-09-05,Restaurant,2992,Food,expense,restaurant
+2026-09-06,Food Delivery,4280,Food,expense,food_delivery
+2026-09-06,Grocery Store,2836,Food,expense,grocery_store
+2026-09-06,Home Store,5483,Shopping,expense,home_store
+2026-09-06,Restaurant,5466,Food,expense,restaurant
+2026-09-07,Cab Ride,671,Transport,expense,cab_ride
+2026-09-07,Cab Ride,561,Transport,expense,cab_ride
+2026-09-07,Cab Ride,253,Transport,expense,cab_ride
+2026-09-07,Food Delivery,1881,Food,expense,food_delivery
+2026-09-07,Gaming Store,431,Entertainment,expense,gaming_store
+2026-09-07,Home Store,8776,Shopping,expense,home_store
+2026-09-07,Restaurant,2145,Food,expense,restaurant
+2026-09-07,Freelance Client,26215,Income,income,freelance_client
+2026-09-08,Gaming Store,1987,Entertainment,expense,gaming_store
+2026-09-08,Bonus,18298,Income,income,bonus
+2026-09-09,Cab Ride,631,Transport,expense,cab_ride
+2026-09-09,Gaming Store,1743,Entertainment,expense,gaming_store
+2026-09-09,Freelance Client,27188,Income,income,freelance_client
+2026-09-09,Freelance Client,9971,Income,income,freelance_client
+2026-09-09,Interest Credit,1005,Income,income,interest_credit
+2026-09-10,Cab Ride,2183,Transport,expense,cab_ride
+2026-09-10,Cab Ride,946,Transport,expense,cab_ride
+2026-09-10,Cafe,3592,Food,expense,cafe
+2026-09-10,Cafe,2009,Food,expense,cafe
+2026-09-11,Cafe,3001,Food,expense,cafe
+2026-09-11,Certification,1680,Education,expense,certification
+2026-09-11,Internet Bill,2441,Utilities,expense,internet_bill
+2026-09-11,Bonus,9524,Income,income,bonus
+2026-09-11,Freelance Client,15035,Income,income,freelance_client
+2026-09-12,Gaming Store,2272,Entertainment,expense,gaming_store
+2026-09-12,Grocery Store,3981,Food,expense,grocery_store
+2026-09-12,Home Store,3543,Shopping,expense,home_store
+2026-09-12,Pharmacy,4489,Healthcare,expense,pharmacy
+2026-09-12,Supermarket,6285,Food,expense,supermarket
+2026-09-13,Food Delivery,500,Food,expense,food_delivery
+2026-09-13,Grocery Store,955,Food,expense,grocery_store
+2026-09-13,Home Store,7080,Shopping,expense,home_store
+2026-09-13,Restaurant,5344,Food,expense,restaurant
+2026-09-14,Clinic Visit,3477,Healthcare,expense,clinic_visit
+2026-09-14,Food Delivery,2648,Food,expense,food_delivery
+2026-09-14,Home Store,8377,Shopping,expense,home_store
+2026-09-14,Mobile Recharge,2931,Utilities,expense,mobile_recharge
+2026-09-15,Cab Ride,664,Transport,expense,cab_ride
+2026-09-15,Bonus,7242,Income,income,bonus
+2026-09-16,Cafe,4742,Food,expense,cafe
+2026-09-16,Certification,2723,Education,expense,certification
+2026-09-16,Clinic Visit,2754,Healthcare,expense,clinic_visit
+2026-09-16,Clinic Visit,1420,Healthcare,expense,clinic_visit
+2026-09-16,Electricity Bill,1865,Utilities,expense,electricity_bill
+2026-09-16,Grocery Store,2267,Food,expense,grocery_store
+2026-09-16,Grocery Store,1487,Food,expense,grocery_store
+2026-09-17,Cab Ride,1761,Transport,expense,cab_ride
+2026-09-17,Cab Ride,229,Transport,expense,cab_ride
+2026-09-17,Cafe,3483,Food,expense,cafe
+2026-09-17,Gaming Store,2159,Entertainment,expense,gaming_store
+2026-09-17,Grocery Store,817,Food,expense,grocery_store
+2026-09-17,Home Store,5606,Shopping,expense,home_store
+2026-09-17,Restaurant,409,Food,expense,restaurant
+2026-09-17,Bonus,9759,Income,income,bonus
+2026-09-18,Cab Ride,372,Transport,expense,cab_ride
+2026-09-18,Electricity Bill,781,Utilities,expense,electricity_bill
+2026-09-18,Grocery Store,3951,Food,expense,grocery_store
+2026-09-18,Home Store,8816,Shopping,expense,home_store
+2026-09-18,Mobile Recharge,1446,Utilities,expense,mobile_recharge
+2026-09-18,Pharmacy,1344,Healthcare,expense,pharmacy
+2026-09-18,Pharmacy,424,Healthcare,expense,pharmacy
+2026-09-18,Restaurant,3498,Food,expense,restaurant
+2026-09-19,Cafe,3316,Food,expense,cafe
+2026-09-20,Cafe,2540,Food,expense,cafe
+2026-09-20,Gaming Store,2855,Entertainment,expense,gaming_store
+2026-09-20,Home Store,4571,Shopping,expense,home_store
+2026-09-20,Pharmacy,1422,Healthcare,expense,pharmacy
+2026-09-20,Restaurant,4806,Food,expense,restaurant
+2026-09-20,Bonus,12950,Income,income,bonus
+2026-09-20,Bonus,5678,Income,income,bonus
+2026-09-21,Cab Ride,305,Transport,expense,cab_ride
+2026-09-21,Electricity Bill,1437,Utilities,expense,electricity_bill
+2026-09-21,Mobile Recharge,2514,Utilities,expense,mobile_recharge
+2026-09-21,Online Course,4989,Education,expense,online_course
+2026-09-22,Cab Ride,742,Transport,expense,cab_ride
+2026-09-22,Cafe,2344,Food,expense,cafe
+2026-09-22,Diagnostics,956,Healthcare,expense,diagnostics
+2026-09-22,Grocery Store,363,Food,expense,grocery_store
+2026-09-22,Home Store,1913,Shopping,expense,home_store
+2026-09-22,Home Store,5388,Shopping,expense,home_store
+2026-09-22,Home Store,6147,Shopping,expense,home_store
+2026-09-22,Supermarket,747,Food,expense,supermarket
+2026-09-22,Interest Credit,2946,Income,income,interest_credit
+2026-09-23,Cafe,4138,Food,expense,cafe
+2026-09-23,Certification,5959,Education,expense,certification
+2026-09-23,Gaming Store,1381,Entertainment,expense,gaming_store
+2026-09-23,Home Store,7812,Shopping,expense,home_store
+2026-09-23,Home Store,1018,Shopping,expense,home_store
+2026-09-23,Supermarket,540,Food,expense,supermarket
+2026-09-23,Bonus,12462,Income,income,bonus
+2026-09-24,Gaming Store,339,Entertainment,expense,gaming_store
+2026-09-24,Pharmacy,2288,Healthcare,expense,pharmacy
+2026-09-24,Bonus,10079,Income,income,bonus
+2026-09-25,Clinic Visit,3354,Healthcare,expense,clinic_visit
+2026-09-25,Food Delivery,3918,Food,expense,food_delivery
+2026-09-25,Home Store,3741,Shopping,expense,home_store
+2026-09-25,Pharmacy,2147,Healthcare,expense,pharmacy
+2026-09-25,Freelance Client,15598,Income,income,freelance_client
+2026-09-26,Food Delivery,1879,Food,expense,food_delivery
+2026-09-26,Interest Credit,2953,Income,income,interest_credit
+2026-09-27,Cab Ride,1996,Transport,expense,cab_ride
+2026-09-27,Cab Ride,2291,Transport,expense,cab_ride
+2026-09-27,Food Delivery,2820,Food,expense,food_delivery
+2026-09-27,Home Store,3439,Shopping,expense,home_store
+2026-09-27,Mobile Recharge,2123,Utilities,expense,mobile_recharge
+2026-09-28,Books,4762,Education,expense,books
+2026-09-28,Cab Ride,1211,Transport,expense,cab_ride
+2026-09-28,Cab Ride,2379,Transport,expense,cab_ride
+2026-09-28,Electricity Bill,793,Utilities,expense,electricity_bill
+2026-09-28,Food Delivery,4308,Food,expense,food_delivery
+2026-09-28,Gaming Store,625,Entertainment,expense,gaming_store
+2026-09-28,Freelance Client,22734,Income,income,freelance_client
+2026-09-29,Books,1557,Education,expense,books
+2026-09-29,Grocery Store,4072,Food,expense,grocery_store
+2026-09-29,Pharmacy,1900,Healthcare,expense,pharmacy
+2026-09-29,Freelance Client,21027,Income,income,freelance_client
+2026-09-29,Interest Credit,3186,Income,income,interest_credit
+2026-09-30,Diagnostics,3435,Healthcare,expense,diagnostics
+2026-09-30,Electricity Bill,3091,Utilities,expense,electricity_bill
+2026-09-30,Restaurant,409,Food,expense,restaurant
+2026-09-30,Freelance Client,13758,Income,income,freelance_client
