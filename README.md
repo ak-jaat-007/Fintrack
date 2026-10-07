@@ -12,6 +12,9 @@ A modern, responsive, and interactive finance dashboard built with **React**, **
 ### Transactions
 ![FinTrack Transactions](./screenshots/screenshot-transactions.png)
 
+### Insights
+![FinTrack Insights](./screenshots/screenshot-insights.png)
+
 ---
 
 ## 🚀 Live Features
